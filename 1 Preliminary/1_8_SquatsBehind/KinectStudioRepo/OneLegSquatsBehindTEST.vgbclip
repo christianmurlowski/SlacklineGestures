@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-05-29</Date>
+			<Time>12:55:42.0244111+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>OneLegSquatsBehindTEST.xef</Clip>
+			<StartFrame>43084</StartFrame>
+			<EndFrame>44559</EndFrame>
+			<ID>94b3097d-23a7-4a39-84a4-a3766aa58fca</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>43821</CurrentFrameStart>
+			<CurrentFrameEnd>43822</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes />
+	</ClipFile>
+</GestureBuilderFile>

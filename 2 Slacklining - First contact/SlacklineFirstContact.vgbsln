@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2017-07-12</Date>
+			<Time>15:40:02.2646590+02:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>5d51eeca-74df-46f1-a1a9-7c0e596e0bb2</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>2_9_Cross_Start/Cross_Start_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_9_Cross_Start/Cross_Start_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_8_NearStart/NearStart_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_8_NearStart/NearStart_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_4_SitGroundBent/SitGroundBent_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_4_SitGroundBent/SitGroundBent_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_5_SitGroundStretched/SitGroundStretched_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_5_SitGroundStretched/SitGroundStretched_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_6_SitLineBent/SitLineBent_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_6_SitLineBent/SitLineBent_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_7_SitLineStretched/SitLineStretched_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>2_7_SitLineStretched/SitLineStretched_Right.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

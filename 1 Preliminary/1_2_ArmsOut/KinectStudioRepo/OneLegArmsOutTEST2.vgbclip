@@ -1,0 +1,1411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-07-11</Date>
+			<Time>10:21:04.8414348+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>OneLegArmsOutTEST2.xef</Clip>
+			<StartFrame>24365</StartFrame>
+			<EndFrame>25734</EndFrame>
+			<ID>a18ee2da-5ea7-4da3-b462-8c28a6e4eb68</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>25071</CurrentFrameStart>
+			<CurrentFrameEnd>25072</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="24521">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24522">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24523">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24524">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24525">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24526">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24527">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24528">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24529">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24530">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24531">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24532">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24533">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24534">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24535">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24536">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24537">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24538">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24539">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24540">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24541">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24542">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24543">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24544">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24545">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24546">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24547">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24548">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24549">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24550">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24551">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24552">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24553">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24554">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24555">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24556">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24557">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24558">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24559">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24560">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24561">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24562">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24563">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24564">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24565">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24566">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24567">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24568">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24569">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24570">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24571">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24572">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24573">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24574">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24575">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24576">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24577">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24578">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24579">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24580">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24581">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24582">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24583">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24584">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24585">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24586">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24587">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24588">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24589">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24590">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24591">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24592">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24593">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24594">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24595">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24596">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24597">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24598">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24599">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24600">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24601">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24602">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24603">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24604">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24605">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24606">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24607">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24608">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24609">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24610">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24611">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24612">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24613">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24614">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24615">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24616">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24617">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24911">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24912">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24913">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24914">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24915">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24916">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24917">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24918">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24919">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24920">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24921">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24922">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24923">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24924">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24925">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24926">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24927">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24928">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24929">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24930">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24931">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24932">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24933">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24934">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24935">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24936">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24937">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24938">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24939">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24940">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24941">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24942">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24943">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24944">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24945">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24946">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24947">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24948">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24949">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24950">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24951">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24952">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24953">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24954">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24955">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24956">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24957">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24958">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24959">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24960">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24961">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24962">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24963">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24964">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24965">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24966">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24967">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24968">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24969">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24970">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24971">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24972">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24973">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24974">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24975">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24976">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24977">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24978">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24979">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24980">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24981">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24982">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24983">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24984">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24985">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24986">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24987">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24988">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24989">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="24990">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25047">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25048">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25049">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25050">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25051">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25052">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25053">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25054">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25055">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25056">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25057">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25058">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25059">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25060">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25061">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25062">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25063">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25064">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25065">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25066">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25067">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25068">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25069">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25070">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25071">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25072">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25073">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25074">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25075">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25076">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25077">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25078">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25079">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25080">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25081">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25082">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25083">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25084">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25085">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25086">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25087">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25088">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25089">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25090">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25091">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25092">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25093">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25094">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25095">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25096">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25097">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25098">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25099">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25100">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25101">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25102">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25103">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25104">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25105">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Right" Value="true" />
+			</Items>
+			<Items Frame="25232">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25233">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25234">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25235">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25236">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25237">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25238">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25239">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25240">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25241">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25242">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25243">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25244">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25245">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25246">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25247">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25248">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25249">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25250">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25251">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25252">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25253">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25254">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25255">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25256">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25257">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25258">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25259">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25260">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25261">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25262">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25263">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25264">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25265">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25266">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25267">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25268">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25269">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25270">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25271">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25272">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25273">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25274">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25275">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25276">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25277">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25278">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25279">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25280">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25281">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25282">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25283">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25284">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25285">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25286">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25287">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25288">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25289">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25290">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25291">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25292">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25293">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25294">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25337">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25338">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25339">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25340">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25341">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25342">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25343">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25344">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25345">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25346">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25347">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25348">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25349">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25350">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25351">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25352">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25353">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25354">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25355">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25356">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25357">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25358">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25359">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25360">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25361">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25362">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25363">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25364">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25365">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25366">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25367">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25368">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25369">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25370">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25371">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25372">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25373">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25374">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25375">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25376">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25377">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25378">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25379">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25380">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25381">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25382">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25383">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25384">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25385">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25386">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25387">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25388">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25389">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25390">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25391">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25392">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25393">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25394">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25395">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25396">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25397">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25398">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25399">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25400">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25401">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25402">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25403">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25404">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25405">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25406">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25407">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25408">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25409">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25484">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25485">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25486">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25487">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25488">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25489">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25490">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25491">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25492">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25493">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25494">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25495">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25496">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25497">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25498">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25499">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25500">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25501">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25502">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25503">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25504">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25505">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25506">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25507">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25508">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25509">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25510">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25511">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25512">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25513">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25514">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25515">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25516">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25517">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25518">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25519">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25520">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25521">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25522">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25523">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25524">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25525">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25526">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25527">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25528">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25529">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25530">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25531">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25532">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25533">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25534">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25535">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25536">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25537">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25538">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25539">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25540">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25541">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25542">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25543">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25544">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25545">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25546">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25547">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25548">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25549">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25550">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25551">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25552">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25553">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25554">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25555">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25556">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25557">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25558">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25559">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25560">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25561">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25562">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25563">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25564">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25565">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25566">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25567">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25568">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25569">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25570">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+			<Items Frame="25571">
+				<Items xsi:type="BoolAttribute" Name="OneLegArmsOut_Left" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

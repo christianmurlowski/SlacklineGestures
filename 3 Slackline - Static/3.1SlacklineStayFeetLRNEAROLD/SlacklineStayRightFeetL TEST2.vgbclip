@@ -1,0 +1,1204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-04-28</Date>
+			<Time>13:01:31.7133695+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>SlacklineStayRightFeetL TEST2.xef</Clip>
+			<StartFrame>7022</StartFrame>
+			<EndFrame>8212</EndFrame>
+			<ID>2543b7dc-c6c9-491f-8c4b-8b2b1f50479d</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>8124</CurrentFrameStart>
+			<CurrentFrameEnd>8125</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="7215">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7216">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7217">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7218">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7219">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7220">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7221">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7222">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7223">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7224">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7225">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7226">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7227">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7228">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7229">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7230">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7231">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7232">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7233">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7234">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7235">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7236">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7237">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7238">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7239">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7240">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7241">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7242">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7243">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7244">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7245">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7246">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7247">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7248">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7249">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7250">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7251">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7252">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7253">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7254">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7255">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7256">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7257">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7258">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7259">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7260">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7261">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7262">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7263">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7264">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7265">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7266">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7267">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7268">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7269">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7270">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7271">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7272">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7273">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7274">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7275">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7276">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7277">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7278">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7279">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7280">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7281">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7282">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7283">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7284">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7285">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7286">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7287">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7288">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7289">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7290">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7291">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7292">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7293">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7294">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7295">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7296">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7297">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7298">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7299">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7300">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7301">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7302">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7303">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7304">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7305">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7306">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7307">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7308">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7309">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7310">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7311">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7312">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7313">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7314">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7315">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7316">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7317">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7318">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7319">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7320">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7321">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7322">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7323">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7324">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7325">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7326">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7327">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7328">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7329">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7330">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7331">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7332">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7333">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7334">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7335">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7336">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7461">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7462">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7463">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7464">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7465">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7466">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7467">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7468">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7469">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7470">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7471">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7472">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7473">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7474">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7475">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7476">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7477">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7478">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7479">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7480">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7481">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7482">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7483">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7484">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7485">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7486">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7487">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7488">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7489">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7490">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7491">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7492">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7493">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7494">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7495">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7496">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7497">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7498">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7499">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7500">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7501">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7502">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7503">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7504">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7505">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7506">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7507">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7508">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7509">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7510">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7511">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7512">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7513">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7514">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7515">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7516">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7517">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7518">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7519">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7520">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7521">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7522">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7523">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7524">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7525">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7526">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7527">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7528">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7529">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7530">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7531">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7532">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7533">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7534">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7535">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7536">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7537">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7538">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7539">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7540">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7541">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7542">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7543">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7544">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7545">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7546">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7547">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7548">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7549">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7550">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7551">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7552">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7553">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7554">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7555">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7556">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7557">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7558">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7559">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7560">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7561">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7562">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7563">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7564">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7565">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7566">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7567">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7568">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7569">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7570">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7571">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7572">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7573">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7574">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7575">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7576">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7577">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7578">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7579">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7580">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7854">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7855">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7856">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7857">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7858">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7859">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7860">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7861">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7862">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7863">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7864">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7865">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7866">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7867">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7868">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7869">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7870">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7871">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7872">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7873">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7874">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7875">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7876">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7877">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7878">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7879">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7880">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7881">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7882">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7883">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7884">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7885">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7886">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7887">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7888">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7889">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7890">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7891">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7892">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7893">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7894">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7895">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7896">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7897">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7898">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7931">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7932">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7933">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7934">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7935">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7936">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7937">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7938">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7939">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7940">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7941">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7942">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7943">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7944">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7945">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7946">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7947">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7948">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7949">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7950">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7951">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7952">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7953">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7954">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7955">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7956">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7957">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7958">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7959">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7960">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7961">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7962">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7963">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7964">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7965">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7966">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7967">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7997">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7998">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="7999">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8000">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8001">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8002">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8003">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8004">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8005">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8006">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8007">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8008">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8009">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8010">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8011">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8012">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8013">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8014">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8015">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8016">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8017">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8018">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8019">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8020">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8021">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8022">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8023">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8024">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8025">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8026">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8027">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8028">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8029">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8030">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8031">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8032">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8033">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8034">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8035">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8036">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8037">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8038">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8039">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8040">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8041">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8042">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8043">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8044">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8045">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8046">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8047">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8048">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8049">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8050">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8051">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8052">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8053">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8054">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8055">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8056">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8057">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8058">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8059">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8060">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8061">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8062">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+			<Items Frame="8063">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStayFeet_Left" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

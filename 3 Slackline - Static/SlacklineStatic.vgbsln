@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2017-07-12</Date>
+			<Time>15:56:19.4566242+02:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>aaf0a2d6-0822-4016-9683-f3b875f0c0b6</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>3_6_BobBoth/BobBoth_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_6_BobBoth/BobBoth_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_5_BobOne/BobOneProgress_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_5_BobOne/BobOneProgress_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_4_CrossStayBoth/CrossStayBoth_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_4_CrossStayBoth/CrossStayBoth_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_2_CrossStayOne/CrossStayOne_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_2_CrossStayOne/CrossStayOne_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_3_NearStayBoth/NearStayBoth_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_3_NearStayBoth/NearStayBoth_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_1_NearStayOne/NearStayOne_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>3_1_NearStayOne/NearStayOne_Right.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

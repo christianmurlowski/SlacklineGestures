@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-07-04</Date>
+			<Time>12:25:53.2856426+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>SlacklineSwichStandingLegOtherFootLeftTEST.xef</Clip>
+			<StartFrame>40296</StartFrame>
+			<EndFrame>41869</EndFrame>
+			<ID>137dca89-fc5e-4fb8-a979-96ac2dab144c</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>40872</CurrentFrameStart>
+			<CurrentFrameEnd>40873</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes />
+	</ClipFile>
+</GestureBuilderFile>

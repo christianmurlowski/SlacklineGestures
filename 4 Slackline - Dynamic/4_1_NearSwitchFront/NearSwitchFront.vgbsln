@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2017-07-11</Date>
+			<Time>08:53:33.4326199+02:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>304cec08-26cf-413a-9384-e73bbad2915f</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>NearSwitchFront_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>NearSwitchFront_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>NearSwitchFront_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>NearSwitchFront_Right.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>NearSwitchFrontProgress_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>NearSwitchFrontProgress_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>NearSwitchFrontProgress_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>NearSwitchFrontProgress_Right.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

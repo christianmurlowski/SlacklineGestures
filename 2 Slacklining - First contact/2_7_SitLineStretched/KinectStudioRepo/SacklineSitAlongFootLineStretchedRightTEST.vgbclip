@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-06-07</Date>
+			<Time>13:33:41.6094940+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>SacklineSitAlongFootLineStretchedRightTEST.xef</Clip>
+			<StartFrame>36600</StartFrame>
+			<EndFrame>38694</EndFrame>
+			<ID>ac11f92e-5bab-430f-8c21-04eb85b4c404</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>38518</CurrentFrameStart>
+			<CurrentFrameEnd>38519</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes />
+	</ClipFile>
+</GestureBuilderFile>

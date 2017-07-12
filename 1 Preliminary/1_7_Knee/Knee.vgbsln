@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2017-07-10</Date>
+			<Time>08:53:46.2737546+02:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>68fc90a3-5bd0-484f-85f7-49281cbb1786</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>Knee_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Knee_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Knee_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>Knee_Right.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

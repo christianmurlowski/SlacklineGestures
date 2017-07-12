@@ -1,0 +1,3678 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-07-11</Date>
+			<Time>10:57:49.1074294+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>OneLegSquatsBehind.xef</Clip>
+			<StartFrame>35033</StartFrame>
+			<EndFrame>36566</EndFrame>
+			<ID>6924e556-b46d-47c5-a83d-e3be94ec5fbb</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>35324</CurrentFrameStart>
+			<CurrentFrameEnd>35394</CurrentFrameEnd>
+			<AttributeInterpolations>
+				<Items>
+					<Description Name="OneLegSquatsBehindProgress_Left" Type="FLOAT" />
+					<Start>35927</Start>
+					<End>35996</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="OneLegSquatsBehindProgress_Left" Type="FLOAT" />
+					<Start>35927</Start>
+					<End>36407</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="OneLegSquatsBehindProgress_Right" Type="FLOAT" />
+					<Start>35305</Start>
+					<End>35415</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="OneLegSquatsBehindProgress_Right" Type="FLOAT" />
+					<Start>35305</Start>
+					<End>35874</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="OneLegSquatsBehindProgress_Right" Type="FLOAT" />
+					<Start>35305</Start>
+					<End>35874</End>
+					<Method>Bezier</Method>
+				</Items>
+				<Items>
+					<Description Name="OneLegSquatsBehindProgress_Right" Type="FLOAT" />
+					<Start>35305</Start>
+					<End>35874</End>
+					<Method>Bezier</Method>
+				</Items>
+			</AttributeInterpolations>
+			<AttributeKeys>
+				<Items Frame="35305">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35325">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35357">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35371">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35406">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35460">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35498">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35506">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35534">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35579">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35615">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35623">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35650">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35678">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35716">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35726">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35755">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35793">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35826">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35833">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35862">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35873">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35927">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="35954">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="35965">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="35995">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="36050">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="36076">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="36090">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="36114">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="36134">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="36168">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="36177">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="36212">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="36247">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="36278">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="36290">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="36319">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="36345">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="36372">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="36383">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="36406">
+					<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				</Items>
+			</AttributeKeys>
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="35305">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35306">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.009591347" />
+			</Items>
+			<Items Frame="35307">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0190384611" />
+			</Items>
+			<Items Frame="35308">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0281971153" />
+			</Items>
+			<Items Frame="35309">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.036923077" />
+			</Items>
+			<Items Frame="35310">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.045072116" />
+			</Items>
+			<Items Frame="35311">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0525" />
+			</Items>
+			<Items Frame="35312">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0590625" />
+			</Items>
+			<Items Frame="35313">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0646153837" />
+			</Items>
+			<Items Frame="35314">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.06901442" />
+			</Items>
+			<Items Frame="35315">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.072115384" />
+			</Items>
+			<Items Frame="35316">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.07377404" />
+			</Items>
+			<Items Frame="35317">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0738461539" />
+			</Items>
+			<Items Frame="35318">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0721875" />
+			</Items>
+			<Items Frame="35319">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0686538443" />
+			</Items>
+			<Items Frame="35320">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0631009638" />
+			</Items>
+			<Items Frame="35321">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0553846136" />
+			</Items>
+			<Items Frame="35322">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0453605764" />
+			</Items>
+			<Items Frame="35323">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0328846164" />
+			</Items>
+			<Items Frame="35324">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0178125" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35325">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35326">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.02025816" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35327">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.042487" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35328">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0665603653" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35329">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0923521146" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35330">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.119736075" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35331">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.148586109" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35332">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.178776056" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35333">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.210179761" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35334">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.242671087" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35335">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.276123852" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35336">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.31041193" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35337">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.345409185" />
+			</Items>
+			<Items Frame="35338">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.3809894" />
+			</Items>
+			<Items Frame="35339">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4170265" />
+			</Items>
+			<Items Frame="35340">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.453394234" />
+			</Items>
+			<Items Frame="35341">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.489966542" />
+			</Items>
+			<Items Frame="35342">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5266172" />
+			</Items>
+			<Items Frame="35343">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5632202" />
+			</Items>
+			<Items Frame="35344">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5996492" />
+			</Items>
+			<Items Frame="35345">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6357781" />
+			</Items>
+			<Items Frame="35346">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.671480834" />
+			</Items>
+			<Items Frame="35347">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7066311" />
+			</Items>
+			<Items Frame="35348">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.741102934" />
+			</Items>
+			<Items Frame="35349">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7747701" />
+			</Items>
+			<Items Frame="35350">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8075063" />
+			</Items>
+			<Items Frame="35351">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.839185655" />
+			</Items>
+			<Items Frame="35352">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8696818" />
+			</Items>
+			<Items Frame="35353">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8988686" />
+			</Items>
+			<Items Frame="35354">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.92662" />
+			</Items>
+			<Items Frame="35355">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9528098" />
+			</Items>
+			<Items Frame="35356">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.97731185" />
+			</Items>
+			<Items Frame="35357">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35358">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.02009809" />
+			</Items>
+			<Items Frame="35359">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.03694117" />
+			</Items>
+			<Items Frame="35360">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.05057" />
+			</Items>
+			<Items Frame="35361">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.06102526" />
+			</Items>
+			<Items Frame="35362">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.06834793" />
+			</Items>
+			<Items Frame="35363">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.07257843" />
+			</Items>
+			<Items Frame="35364">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.07375777" />
+			</Items>
+			<Items Frame="35365">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.07192659" />
+			</Items>
+			<Items Frame="35366">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.06712556" />
+			</Items>
+			<Items Frame="35367">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.05939555" />
+			</Items>
+			<Items Frame="35368">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.04877722" />
+			</Items>
+			<Items Frame="35369">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.03531134" />
+			</Items>
+			<Items Frame="35370">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.01903868" />
+			</Items>
+			<Items Frame="35371">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35372">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.978650868" />
+			</Items>
+			<Items Frame="35373">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9555031" />
+			</Items>
+			<Items Frame="35374">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9306816" />
+			</Items>
+			<Items Frame="35375">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9043112" />
+			</Items>
+			<Items Frame="35376">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8765168" />
+			</Items>
+			<Items Frame="35377">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8474234" />
+			</Items>
+			<Items Frame="35378">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8171557" />
+			</Items>
+			<Items Frame="35379">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7858387" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35380">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7535974" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35381">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7205565" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35382">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.686841" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35383">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6525758" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35384">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6178857" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35385">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.582895637" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35386">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.547730565" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35387">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5125153" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35388">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4773748" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35389">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4424339" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35390">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.407817483" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35391">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.3736505" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35392">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.3400578" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35393">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.307164252" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35394">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.2750948" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35395">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.243974343" />
+			</Items>
+			<Items Frame="35396">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.213927716" />
+			</Items>
+			<Items Frame="35397">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.185079843" />
+			</Items>
+			<Items Frame="35398">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.157555625" />
+			</Items>
+			<Items Frame="35399">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.131479934" />
+			</Items>
+			<Items Frame="35400">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.106977671" />
+			</Items>
+			<Items Frame="35401">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.08417373" />
+			</Items>
+			<Items Frame="35402">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.06319299" />
+			</Items>
+			<Items Frame="35403">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0441603623" />
+			</Items>
+			<Items Frame="35404">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0272007268" />
+			</Items>
+			<Items Frame="35405">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0124389743" />
+			</Items>
+			<Items Frame="35406">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35407">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0110212229" />
+			</Items>
+			<Items Frame="35408">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0216134824" />
+			</Items>
+			<Items Frame="35409">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0317775346" />
+			</Items>
+			<Items Frame="35410">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.04151413" />
+			</Items>
+			<Items Frame="35411">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0508240238" />
+			</Items>
+			<Items Frame="35412">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0597079732" />
+			</Items>
+			<Items Frame="35413">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0681667253" />
+			</Items>
+			<Items Frame="35414">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.076201044" />
+			</Items>
+			<Items Frame="35415">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.08381168" />
+			</Items>
+			<Items Frame="35416">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.09099937" />
+			</Items>
+			<Items Frame="35417">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0977648944" />
+			</Items>
+			<Items Frame="35418">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.104109" />
+			</Items>
+			<Items Frame="35419">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.110032424" />
+			</Items>
+			<Items Frame="35420">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.115535937" />
+			</Items>
+			<Items Frame="35421">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.120620288" />
+			</Items>
+			<Items Frame="35422">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.125286222" />
+			</Items>
+			<Items Frame="35423">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.129534513" />
+			</Items>
+			<Items Frame="35424">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.1333659" />
+			</Items>
+			<Items Frame="35425">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.136781141" />
+			</Items>
+			<Items Frame="35426">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.139780983" />
+			</Items>
+			<Items Frame="35427">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.1423662" />
+			</Items>
+			<Items Frame="35428">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.144537523" />
+			</Items>
+			<Items Frame="35429">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.146295711" />
+			</Items>
+			<Items Frame="35430">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.14764154" />
+			</Items>
+			<Items Frame="35431">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.148575723" />
+			</Items>
+			<Items Frame="35432">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.149099052" />
+			</Items>
+			<Items Frame="35433">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.149212256" />
+			</Items>
+			<Items Frame="35434">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.14891611" />
+			</Items>
+			<Items Frame="35435">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.148211345" />
+			</Items>
+			<Items Frame="35436">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.147098735" />
+			</Items>
+			<Items Frame="35437">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.145579025" />
+			</Items>
+			<Items Frame="35438">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.143652961" />
+			</Items>
+			<Items Frame="35439">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.141321316" />
+			</Items>
+			<Items Frame="35440">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.138584822" />
+			</Items>
+			<Items Frame="35441">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.135444254" />
+			</Items>
+			<Items Frame="35442">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.13190034" />
+			</Items>
+			<Items Frame="35443">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.127953857" />
+			</Items>
+			<Items Frame="35444">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.123605557" />
+			</Items>
+			<Items Frame="35445">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.118856184" />
+			</Items>
+			<Items Frame="35446">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.1137065" />
+			</Items>
+			<Items Frame="35447">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.108157247" />
+			</Items>
+			<Items Frame="35448">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.102209195" />
+			</Items>
+			<Items Frame="35449">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.09586309" />
+			</Items>
+			<Items Frame="35450">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.08911968" />
+			</Items>
+			<Items Frame="35451">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.08197973" />
+			</Items>
+			<Items Frame="35452">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.07444398" />
+			</Items>
+			<Items Frame="35453">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0665132" />
+			</Items>
+			<Items Frame="35454">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0581881329" />
+			</Items>
+			<Items Frame="35455">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.049469538" />
+			</Items>
+			<Items Frame="35456">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0403581671" />
+			</Items>
+			<Items Frame="35457">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0308547746" />
+			</Items>
+			<Items Frame="35458">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.020960113" />
+			</Items>
+			<Items Frame="35459">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0106749367" />
+			</Items>
+			<Items Frame="35460">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35461">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0117890965" />
+			</Items>
+			<Items Frame="35462">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0253617913" />
+			</Items>
+			<Items Frame="35463">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0406348854" />
+			</Items>
+			<Items Frame="35464">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.05752518" />
+			</Items>
+			<Items Frame="35465">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.07594948" />
+			</Items>
+			<Items Frame="35466">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.09582459" />
+			</Items>
+			<Items Frame="35467">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.117067307" />
+			</Items>
+			<Items Frame="35468">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.139594436" />
+			</Items>
+			<Items Frame="35469">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.163322791" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35470">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.188169152" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35471">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.214050323" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35472">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.240883127" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35473">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.268584371" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35474">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.2970708" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35475">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.3262593" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35476">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.3560666" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35477">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.386409551" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35478">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.417204946" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35479">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.448369563" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35480">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.479820222" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35481">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5114737" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35482">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.543246865" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35483">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5750565" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35484">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.606819332" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35485">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.638452232" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35486">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.669872046" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35487">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.700995445" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35488">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.731739342" />
+			</Items>
+			<Items Frame="35489">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.762020469" />
+			</Items>
+			<Items Frame="35490">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7917557" />
+			</Items>
+			<Items Frame="35491">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.820861757" />
+			</Items>
+			<Items Frame="35492">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8492555" />
+			</Items>
+			<Items Frame="35493">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8768537" />
+			</Items>
+			<Items Frame="35494">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9035732" />
+			</Items>
+			<Items Frame="35495">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.929330766" />
+			</Items>
+			<Items Frame="35496">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.954043269" />
+			</Items>
+			<Items Frame="35497">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9776274" />
+			</Items>
+			<Items Frame="35498">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35499">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.01968217" />
+			</Items>
+			<Items Frame="35500">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.03487325" />
+			</Items>
+			<Items Frame="35501">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.04500675" />
+			</Items>
+			<Items Frame="35502">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.04951692" />
+			</Items>
+			<Items Frame="35503">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.04783738" />
+			</Items>
+			<Items Frame="35504">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.03940213" />
+			</Items>
+			<Items Frame="35505">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.023645" />
+			</Items>
+			<Items Frame="35506">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35507">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9709073" />
+			</Items>
+			<Items Frame="35508">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.939337432" />
+			</Items>
+			<Items Frame="35509">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.905519664" />
+			</Items>
+			<Items Frame="35510">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.869683266" />
+			</Items>
+			<Items Frame="35511">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8320575" />
+			</Items>
+			<Items Frame="35512">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7928715" />
+			</Items>
+			<Items Frame="35513">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.752354443" />
+			</Items>
+			<Items Frame="35514">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7107357" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35515">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6682444" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35516">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.625109851" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35517">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.581561148" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35518">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5378277" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35519">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4941385" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35520">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.450723" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35521">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.407810271" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35522">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.3656296" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35523">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.32441023" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35524">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.28438136" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35525">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.245772228" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35526">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.208812028" />
+			</Items>
+			<Items Frame="35527">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.173730016" />
+			</Items>
+			<Items Frame="35528">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.140755415" />
+			</Items>
+			<Items Frame="35529">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.11011745" />
+			</Items>
+			<Items Frame="35530">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.08204534" />
+			</Items>
+			<Items Frame="35531">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0567683168" />
+			</Items>
+			<Items Frame="35532">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0345156" />
+			</Items>
+			<Items Frame="35533">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.015516419" />
+			</Items>
+			<Items Frame="35534">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35535">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0133648189" />
+			</Items>
+			<Items Frame="35536">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0260646865" />
+			</Items>
+			<Items Frame="35537">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.038103614" />
+			</Items>
+			<Items Frame="35538">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.04948561" />
+			</Items>
+			<Items Frame="35539">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.060214676" />
+			</Items>
+			<Items Frame="35540">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.07029483" />
+			</Items>
+			<Items Frame="35541">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.07973008" />
+			</Items>
+			<Items Frame="35542">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.08852442" />
+			</Items>
+			<Items Frame="35543">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0966818854" />
+			</Items>
+			<Items Frame="35544">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.104206465" />
+			</Items>
+			<Items Frame="35545">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.111102171" />
+			</Items>
+			<Items Frame="35546">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.117373019" />
+			</Items>
+			<Items Frame="35547">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.123023011" />
+			</Items>
+			<Items Frame="35548">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.128056154" />
+			</Items>
+			<Items Frame="35549">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.132476464" />
+			</Items>
+			<Items Frame="35550">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.136287943" />
+			</Items>
+			<Items Frame="35551">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.139494613" />
+			</Items>
+			<Items Frame="35552">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.142100453" />
+			</Items>
+			<Items Frame="35553">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.1441095" />
+			</Items>
+			<Items Frame="35554">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.145525768" />
+			</Items>
+			<Items Frame="35555">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.14635323" />
+			</Items>
+			<Items Frame="35556">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.146595925" />
+			</Items>
+			<Items Frame="35557">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.146257862" />
+			</Items>
+			<Items Frame="35558">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.145343035" />
+			</Items>
+			<Items Frame="35559">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.143855453" />
+			</Items>
+			<Items Frame="35560">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.141799137" />
+			</Items>
+			<Items Frame="35561">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.139178082" />
+			</Items>
+			<Items Frame="35562">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.135996312" />
+			</Items>
+			<Items Frame="35563">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.132257819" />
+			</Items>
+			<Items Frame="35564">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.127966627" />
+			</Items>
+			<Items Frame="35565">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.123126738" />
+			</Items>
+			<Items Frame="35566">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.117742158" />
+			</Items>
+			<Items Frame="35567">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.1118169" />
+			</Items>
+			<Items Frame="35568">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.105354972" />
+			</Items>
+			<Items Frame="35569">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.09836038" />
+			</Items>
+			<Items Frame="35570">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0908371359" />
+			</Items>
+			<Items Frame="35571">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.08278925" />
+			</Items>
+			<Items Frame="35572">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0742207244" />
+			</Items>
+			<Items Frame="35573">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0651355758" />
+			</Items>
+			<Items Frame="35574">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.05553781" />
+			</Items>
+			<Items Frame="35575">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.04543143" />
+			</Items>
+			<Items Frame="35576">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0348204523" />
+			</Items>
+			<Items Frame="35577">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0237088818" />
+			</Items>
+			<Items Frame="35578">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0121007282" />
+			</Items>
+			<Items Frame="35579">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35580">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0133275054" />
+			</Items>
+			<Items Frame="35581">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0285554454" />
+			</Items>
+			<Items Frame="35582">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0455889925" />
+			</Items>
+			<Items Frame="35583">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.06433332" />
+			</Items>
+			<Items Frame="35584">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0846936" />
+			</Items>
+			<Items Frame="35585">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.106575012" />
+			</Items>
+			<Items Frame="35586">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.129882723" />
+			</Items>
+			<Items Frame="35587">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.1545219" />
+			</Items>
+			<Items Frame="35588">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.180397734" />
+			</Items>
+			<Items Frame="35589">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.207415372" />
+			</Items>
+			<Items Frame="35590">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.235480011" />
+			</Items>
+			<Items Frame="35591">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.264496833" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35592">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.294370979" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35593">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.325007617" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35594">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.356311977" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35595">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.388189167" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35596">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4205444" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35597">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.453282833" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35598">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.486309648" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35599">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.51953" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35600">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5528491" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35601">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5861721" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35602">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.619404137" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35603">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.652450442" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35604">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6852161" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35605">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7176064" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35606">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7495265" />
+			</Items>
+			<Items Frame="35607">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7808815" />
+			</Items>
+			<Items Frame="35608">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8115766" />
+			</Items>
+			<Items Frame="35609">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.841517031" />
+			</Items>
+			<Items Frame="35610">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.870607853" />
+			</Items>
+			<Items Frame="35611">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.898754358" />
+			</Items>
+			<Items Frame="35612">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9258616" />
+			</Items>
+			<Items Frame="35613">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.951834857" />
+			</Items>
+			<Items Frame="35614">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9765793" />
+			</Items>
+			<Items Frame="35615">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35616">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.02052557" />
+			</Items>
+			<Items Frame="35617">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.03628242" />
+			</Items>
+			<Items Frame="35618">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.04672277" />
+			</Items>
+			<Items Frame="35619">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.05129874" />
+			</Items>
+			<Items Frame="35620">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.0494622" />
+			</Items>
+			<Items Frame="35621">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.04066563" />
+			</Items>
+			<Items Frame="35622">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.02436078" />
+			</Items>
+			<Items Frame="35623">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35624">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.970140636" />
+			</Items>
+			<Items Frame="35625">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.937855244" />
+			</Items>
+			<Items Frame="35626">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9033688" />
+			</Items>
+			<Items Frame="35627">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.866906047" />
+			</Items>
+			<Items Frame="35628">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8286919" />
+			</Items>
+			<Items Frame="35629">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7889512" />
+			</Items>
+			<Items Frame="35630">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7479089" />
+			</Items>
+			<Items Frame="35631">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.705789745" />
+			</Items>
+			<Items Frame="35632">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6628187" />
+			</Items>
+			<Items Frame="35633">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6192205" />
+			</Items>
+			<Items Frame="35634">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5752201" />
+			</Items>
+			<Items Frame="35635">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.531042337" />
+			</Items>
+			<Items Frame="35636">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4869121" />
+			</Items>
+			<Items Frame="35637">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.443054229" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35638">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.399693578" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35639">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.357055038" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35640">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.315363437" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35641">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.274843663" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35642">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.23572059" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35643">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.198219046" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35644">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.1625639" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35645">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.128980055" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35646">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.09769232" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35647">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.06892559" />
+			</Items>
+			<Items Frame="35648">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.042904716" />
+			</Items>
+			<Items Frame="35649">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0198545642" />
+			</Items>
+			<Items Frame="35650">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35651">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0174281076" />
+			</Items>
+			<Items Frame="35652">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.033364255" />
+			</Items>
+			<Items Frame="35653">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0478316322" />
+			</Items>
+			<Items Frame="35654">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0608534329" />
+			</Items>
+			<Items Frame="35655">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.07245284" />
+			</Items>
+			<Items Frame="35656">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.08265306" />
+			</Items>
+			<Items Frame="35657">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0914772749" />
+			</Items>
+			<Items Frame="35658">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.09894867" />
+			</Items>
+			<Items Frame="35659">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.105090447" />
+			</Items>
+			<Items Frame="35660">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.109925792" />
+			</Items>
+			<Items Frame="35661">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.113477893" />
+			</Items>
+			<Items Frame="35662">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.115769945" />
+			</Items>
+			<Items Frame="35663">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.116825141" />
+			</Items>
+			<Items Frame="35664">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.116666667" />
+			</Items>
+			<Items Frame="35665">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.115317717" />
+			</Items>
+			<Items Frame="35666">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.112801485" />
+			</Items>
+			<Items Frame="35667">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.109141156" />
+			</Items>
+			<Items Frame="35668">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.104359925" />
+			</Items>
+			<Items Frame="35669">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0984809846" />
+			</Items>
+			<Items Frame="35670">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.09152752" />
+			</Items>
+			<Items Frame="35671">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.08352273" />
+			</Items>
+			<Items Frame="35672">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0744897947" />
+			</Items>
+			<Items Frame="35673">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.06445192" />
+			</Items>
+			<Items Frame="35674">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0534322821" />
+			</Items>
+			<Items Frame="35675">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.04145408" />
+			</Items>
+			<Items Frame="35676">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.028540507" />
+			</Items>
+			<Items Frame="35677">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0147147495" />
+			</Items>
+			<Items Frame="35678">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35679">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0158718564" />
+			</Items>
+			<Items Frame="35680">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.03313828" />
+			</Items>
+			<Items Frame="35681">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0517301" />
+			</Items>
+			<Items Frame="35682">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.07157815" />
+			</Items>
+			<Items Frame="35683">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0926132649" />
+			</Items>
+			<Items Frame="35684">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.114766262" />
+			</Items>
+			<Items Frame="35685">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.137967989" />
+			</Items>
+			<Items Frame="35686">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.162149265" />
+			</Items>
+			<Items Frame="35687">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.187240928" />
+			</Items>
+			<Items Frame="35688">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.2131738" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35689">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.239878714" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35690">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.2672865" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35691">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.295328021" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35692">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.323934048" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35693">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.35303545" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35694">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.382563055" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35695">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4124477" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35696">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4426202" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35697">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.473011374" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35698">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5035521" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35699">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.534173131" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35700">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5648054" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35701">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5953796" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35702">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6258267" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35703">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6560775" />
+			</Items>
+			<Items Frame="35704">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.686062753" />
+			</Items>
+			<Items Frame="35705">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7157134" />
+			</Items>
+			<Items Frame="35706">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7449602" />
+			</Items>
+			<Items Frame="35707">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.773734" />
+			</Items>
+			<Items Frame="35708">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8019656" />
+			</Items>
+			<Items Frame="35709">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.82958585" />
+			</Items>
+			<Items Frame="35710">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8565256" />
+			</Items>
+			<Items Frame="35711">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8827157" />
+			</Items>
+			<Items Frame="35712">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9080869" />
+			</Items>
+			<Items Frame="35713">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.932570159" />
+			</Items>
+			<Items Frame="35714">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9560962" />
+			</Items>
+			<Items Frame="35715">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.978595853" />
+			</Items>
+			<Items Frame="35716">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35717">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.01918268" />
+			</Items>
+			<Items Frame="35718">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.03487182" />
+			</Items>
+			<Items Frame="35719">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.0467788" />
+			</Items>
+			<Items Frame="35720">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.05461538" />
+			</Items>
+			<Items Frame="35721">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.058093" />
+			</Items>
+			<Items Frame="35722">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.056923" />
+			</Items>
+			<Items Frame="35723">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.05081725" />
+			</Items>
+			<Items Frame="35724">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.03948712" />
+			</Items>
+			<Items Frame="35725">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.02264428" />
+			</Items>
+			<Items Frame="35726">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35727">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9731086" />
+			</Items>
+			<Items Frame="35728">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9438514" />
+			</Items>
+			<Items Frame="35729">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9124312" />
+			</Items>
+			<Items Frame="35730">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8790504" />
+			</Items>
+			<Items Frame="35731">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8439117" />
+			</Items>
+			<Items Frame="35732">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8072178" />
+			</Items>
+			<Items Frame="35733">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7691711" />
+			</Items>
+			<Items Frame="35734">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.729974449" />
+			</Items>
+			<Items Frame="35735">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6898303" />
+			</Items>
+			<Items Frame="35736">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6489413" />
+			</Items>
+			<Items Frame="35737">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.60751003" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35738">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.565739155" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35739">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5238313" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35740">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.481989" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35741">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4404149" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35742">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.3993116" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35743">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.358881742" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35744">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.319327921" />
+			</Items>
+			<Items Frame="35745">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.2808527" />
+			</Items>
+			<Items Frame="35746">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.243658766" />
+			</Items>
+			<Items Frame="35747">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.20794867" />
+			</Items>
+			<Items Frame="35748">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.173925042" />
+			</Items>
+			<Items Frame="35749">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.141790509" />
+			</Items>
+			<Items Frame="35750">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.111747645" />
+			</Items>
+			<Items Frame="35751">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.08399908" />
+			</Items>
+			<Items Frame="35752">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.05874743" />
+			</Items>
+			<Items Frame="35753">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.03619529" />
+			</Items>
+			<Items Frame="35754">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0165452771" />
+			</Items>
+			<Items Frame="35755">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35756">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0145110544" />
+			</Items>
+			<Items Frame="35757">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0281958" />
+			</Items>
+			<Items Frame="35758">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.041057732" />
+			</Items>
+			<Items Frame="35759">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0531003438" />
+			</Items>
+			<Items Frame="35760">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.06432713" />
+			</Items>
+			<Items Frame="35761">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.07474158" />
+			</Items>
+			<Items Frame="35762">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0843471959" />
+			</Items>
+			<Items Frame="35763">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0931474641" />
+			</Items>
+			<Items Frame="35764">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.101145886" />
+			</Items>
+			<Items Frame="35793">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35794">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0152083831" />
+			</Items>
+			<Items Frame="35795">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.03258547" />
+			</Items>
+			<Items Frame="35796">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.05201268" />
+			</Items>
+			<Items Frame="35797">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.07337143" />
+			</Items>
+			<Items Frame="35798">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.09654317" />
+			</Items>
+			<Items Frame="35799">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.1214093" />
+			</Items>
+			<Items Frame="35800">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.147851244" />
+			</Items>
+			<Items Frame="35801">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.175750449" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35802">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.2049883" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35803">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.235446259" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35804">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.267005742" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35805">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.299548149" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35806">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.332954943" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35807">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.3671075" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35808">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.401887268" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35809">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4371757" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35810">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.472854167" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35811">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.508804142" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35812">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.544907033" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35813">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5810442" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35814">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6170972" />
+			</Items>
+			<Items Frame="35815">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6529473" />
+			</Items>
+			<Items Frame="35816">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6884761" />
+			</Items>
+			<Items Frame="35817">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7235648" />
+			</Items>
+			<Items Frame="35818">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.758095" />
+			</Items>
+			<Items Frame="35819">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.79194814" />
+			</Items>
+			<Items Frame="35820">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.825005531" />
+			</Items>
+			<Items Frame="35821">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8571487" />
+			</Items>
+			<Items Frame="35822">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.888258934" />
+			</Items>
+			<Items Frame="35823">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9182178" />
+			</Items>
+			<Items Frame="35824">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9469066" />
+			</Items>
+			<Items Frame="35825">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9742069" />
+			</Items>
+			<Items Frame="35826">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35827">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.02176869" />
+			</Items>
+			<Items Frame="35828">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.03684807" />
+			</Items>
+			<Items Frame="35829">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.04489791" />
+			</Items>
+			<Items Frame="35830">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.04557824" />
+			</Items>
+			<Items Frame="35831">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.03854871" />
+			</Items>
+			<Items Frame="35832">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1.02346933" />
+			</Items>
+			<Items Frame="35833">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35834">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.971452057" />
+			</Items>
+			<Items Frame="35835">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.9414408" />
+			</Items>
+			<Items Frame="35836">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.910081744" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35837">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8774903" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35838">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.843782" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35839">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.8090724" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35840">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7734769" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35841">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.737111" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35842">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.7000902" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35843">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.66253" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35844">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.6245459" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35845">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.586253345" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35846">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.5477679" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35847">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.509205" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35848">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.4706801" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35849">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.432308733" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35850">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.3942064" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35851">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.3564886" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35852">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.31927076" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35853">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.2826684" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35854">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.246797055" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35855">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.211772159" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35856">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.1777092" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35857">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.144723713" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35858">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.112931147" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Right" Value="true" />
+			</Items>
+			<Items Frame="35859">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.08244701" />
+			</Items>
+			<Items Frame="35860">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0533867739" />
+			</Items>
+			<Items Frame="35861">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0.0258659422" />
+			</Items>
+			<Items Frame="35862">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35863">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.021694215" />
+			</Items>
+			<Items Frame="35864">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0371900834" />
+			</Items>
+			<Items Frame="35865">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.04710744" />
+			</Items>
+			<Items Frame="35866">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0520661175" />
+			</Items>
+			<Items Frame="35867">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.05268595" />
+			</Items>
+			<Items Frame="35868">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0495867766" />
+			</Items>
+			<Items Frame="35869">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.04338843" />
+			</Items>
+			<Items Frame="35870">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0347107425" />
+			</Items>
+			<Items Frame="35871">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.024173554" />
+			</Items>
+			<Items Frame="35872">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="-0.0123966942" />
+			</Items>
+			<Items Frame="35873">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35927">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="35928">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.04239031" />
+			</Items>
+			<Items Frame="35929">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0847364962" />
+			</Items>
+			<Items Frame="35930">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.126994446" />
+			</Items>
+			<Items Frame="35931">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.169120029" />
+			</Items>
+			<Items Frame="35932">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.211069137" />
+			</Items>
+			<Items Frame="35933">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.252797633" />
+			</Items>
+			<Items Frame="35934">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.294261426" />
+			</Items>
+			<Items Frame="35935">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.335416347" />
+			</Items>
+			<Items Frame="35936">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.376218319" />
+			</Items>
+			<Items Frame="35937">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.4166232" />
+			</Items>
+			<Items Frame="35938">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.4565869" />
+			</Items>
+			<Items Frame="35939">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.496065259" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35940">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5350142" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35941">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.57338953" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35942">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6111472" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35943">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.64824307" />
+			</Items>
+			<Items Frame="35944">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.684633" />
+			</Items>
+			<Items Frame="35945">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7202729" />
+			</Items>
+			<Items Frame="35946">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7551186" />
+			</Items>
+			<Items Frame="35947">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7891261" />
+			</Items>
+			<Items Frame="35948">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8222511" />
+			</Items>
+			<Items Frame="35949">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8544496" />
+			</Items>
+			<Items Frame="35950">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.885677457" />
+			</Items>
+			<Items Frame="35951">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9158906" />
+			</Items>
+			<Items Frame="35952">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.945044756" />
+			</Items>
+			<Items Frame="35953">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.973095953" />
+			</Items>
+			<Items Frame="35954">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="35955">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.02376425" />
+			</Items>
+			<Items Frame="35956">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.04248929" />
+			</Items>
+			<Items Frame="35957">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.05627048" />
+			</Items>
+			<Items Frame="35958">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.06520331" />
+			</Items>
+			<Items Frame="35959">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.06938326" />
+			</Items>
+			<Items Frame="35960">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.06890583" />
+			</Items>
+			<Items Frame="35961">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.06386662" />
+			</Items>
+			<Items Frame="35962">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.05436087" />
+			</Items>
+			<Items Frame="35963">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.04048419" />
+			</Items>
+			<Items Frame="35964">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.02233207" />
+			</Items>
+			<Items Frame="35965">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="35966">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9743285" />
+			</Items>
+			<Items Frame="35967">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9462301" />
+			</Items>
+			<Items Frame="35968">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.915908158" />
+			</Items>
+			<Items Frame="35969">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8835662" />
+			</Items>
+			<Items Frame="35970">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8494075" />
+			</Items>
+			<Items Frame="35971">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8136356" />
+			</Items>
+			<Items Frame="35972">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7764538" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35973">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7380656" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35974">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6986743" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35975">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.658483446" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35976">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.617696345" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35977">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5765165" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35978">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.53514725" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35979">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.493792027" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35980">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.452654243" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35981">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.4119373" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35982">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.37184462" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="35983">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.3325796" />
+			</Items>
+			<Items Frame="35984">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.2943457" />
+			</Items>
+			<Items Frame="35985">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.2573463" />
+			</Items>
+			<Items Frame="35986">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.221784785" />
+			</Items>
+			<Items Frame="35987">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.1878646" />
+			</Items>
+			<Items Frame="35988">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.155789152" />
+			</Items>
+			<Items Frame="35989">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.125761837" />
+			</Items>
+			<Items Frame="35990">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.09798608" />
+			</Items>
+			<Items Frame="35991">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.07266528" />
+			</Items>
+			<Items Frame="35992">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.05000287" />
+			</Items>
+			<Items Frame="35993">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0302022416" />
+			</Items>
+			<Items Frame="35994">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0134668155" />
+			</Items>
+			<Items Frame="35995">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="36050">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="36051">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0148137966" />
+			</Items>
+			<Items Frame="36052">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.03432964" />
+			</Items>
+			<Items Frame="36053">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0581962578" />
+			</Items>
+			<Items Frame="36054">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0860623643" />
+			</Items>
+			<Items Frame="36055">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.117576681" />
+			</Items>
+			<Items Frame="36056">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.152387932" />
+			</Items>
+			<Items Frame="36057">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.190144852" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36058">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.230496138" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36059">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.2730905" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36060">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.3175767" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36061">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.363603473" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36062">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.410819471" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36063">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.458873451" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36064">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.507414162" />
+			</Items>
+			<Items Frame="36065">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5560903" />
+			</Items>
+			<Items Frame="36066">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.60455054" />
+			</Items>
+			<Items Frame="36067">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.652443647" />
+			</Items>
+			<Items Frame="36068">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6994184" />
+			</Items>
+			<Items Frame="36069">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.745123446" />
+			</Items>
+			<Items Frame="36070">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7892075" />
+			</Items>
+			<Items Frame="36071">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.831319332" />
+			</Items>
+			<Items Frame="36072">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.871107638" />
+			</Items>
+			<Items Frame="36073">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9082211" />
+			</Items>
+			<Items Frame="36074">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.942308545" />
+			</Items>
+			<Items Frame="36075">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9730186" />
+			</Items>
+			<Items Frame="36076">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="36077">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.0233016" />
+			</Items>
+			<Items Frame="36078">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.04317939" />
+			</Items>
+			<Items Frame="36079">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.0595932" />
+			</Items>
+			<Items Frame="36080">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.07250273" />
+			</Items>
+			<Items Frame="36081">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.08186758" />
+			</Items>
+			<Items Frame="36082">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.08764768" />
+			</Items>
+			<Items Frame="36083">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.08980262" />
+			</Items>
+			<Items Frame="36084">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.08829212" />
+			</Items>
+			<Items Frame="36085">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.083076" />
+			</Items>
+			<Items Frame="36086">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.07411385" />
+			</Items>
+			<Items Frame="36087">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.06136549" />
+			</Items>
+			<Items Frame="36088">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.04479051" />
+			</Items>
+			<Items Frame="36089">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.02434886" />
+			</Items>
+			<Items Frame="36090">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="36091">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.971675336" />
+			</Items>
+			<Items Frame="36092">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.939571142" />
+			</Items>
+			<Items Frame="36093">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.904044569" />
+			</Items>
+			<Items Frame="36094">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.865452766" />
+			</Items>
+			<Items Frame="36095">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.824153" />
+			</Items>
+			<Items Frame="36096">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7805024" />
+			</Items>
+			<Items Frame="36097">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.734858155" />
+			</Items>
+			<Items Frame="36098">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.687577546" />
+			</Items>
+			<Items Frame="36099">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.639017642" />
+			</Items>
+			<Items Frame="36100">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5895357" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36101">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5394889" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36102">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.489234447" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36103">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.4391295" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36104">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.389531285" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36105">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.340796947" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36106">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.2932837" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36107">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.247348756" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36108">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.203349277" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36109">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.161642462" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36110">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.122585505" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36111">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.08653559" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36112">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.053849902" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36113">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0248856433" />
+			</Items>
+			<Items Frame="36114">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="36115">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0213909931" />
+			</Items>
+			<Items Frame="36116">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0401515141" />
+			</Items>
+			<Items Frame="36117">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0563446954" />
+			</Items>
+			<Items Frame="36118">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.07003367" />
+			</Items>
+			<Items Frame="36119">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0812815651" />
+			</Items>
+			<Items Frame="36120">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.09015152" />
+			</Items>
+			<Items Frame="36121">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.09670665" />
+			</Items>
+			<Items Frame="36122">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.1010101" />
+			</Items>
+			<Items Frame="36123">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.103125" />
+			</Items>
+			<Items Frame="36124">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.103114478" />
+			</Items>
+			<Items Frame="36125">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.101041667" />
+			</Items>
+			<Items Frame="36126">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0969696939" />
+			</Items>
+			<Items Frame="36127">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0909617" />
+			</Items>
+			<Items Frame="36128">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0830808058" />
+			</Items>
+			<Items Frame="36129">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.07339015" />
+			</Items>
+			<Items Frame="36130">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0619528629" />
+			</Items>
+			<Items Frame="36131">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.04883207" />
+			</Items>
+			<Items Frame="36132">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.03409091" />
+			</Items>
+			<Items Frame="36133">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.017792508" />
+			</Items>
+			<Items Frame="36134">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="36135">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0193256065" />
+			</Items>
+			<Items Frame="36136">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0402063951" />
+			</Items>
+			<Items Frame="36137">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0625538751" />
+			</Items>
+			<Items Frame="36138">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0862795562" />
+			</Items>
+			<Items Frame="36139">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.111294955" />
+			</Items>
+			<Items Frame="36140">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.137511566" />
+			</Items>
+			<Items Frame="36141">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.1648409" />
+			</Items>
+			<Items Frame="36142">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.1931945" />
+			</Items>
+			<Items Frame="36143">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.222483814" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36144">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.2526204" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36145">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.283515751" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36146">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.3150814" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36147">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.3472288" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36148">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.3798695" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36149">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.412915021" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36150">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.446276844" />
+			</Items>
+			<Items Frame="36151">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.4798665" />
+			</Items>
+			<Items Frame="36152">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.513595462" />
+			</Items>
+			<Items Frame="36153">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5473753" />
+			</Items>
+			<Items Frame="36154">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.581117451" />
+			</Items>
+			<Items Frame="36155">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6147335" />
+			</Items>
+			<Items Frame="36156">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6481349" />
+			</Items>
+			<Items Frame="36157">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.681233168" />
+			</Items>
+			<Items Frame="36158">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.713939846" />
+			</Items>
+			<Items Frame="36159">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7461664" />
+			</Items>
+			<Items Frame="36160">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7778244" />
+			</Items>
+			<Items Frame="36161">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8088253" />
+			</Items>
+			<Items Frame="36162">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.839080632" />
+			</Items>
+			<Items Frame="36163">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8685019" />
+			</Items>
+			<Items Frame="36164">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.897000551" />
+			</Items>
+			<Items Frame="36165">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.924488246" />
+			</Items>
+			<Items Frame="36166">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.950876355" />
+			</Items>
+			<Items Frame="36167">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9760764" />
+			</Items>
+			<Items Frame="36168">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="36169">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.02061963" />
+			</Items>
+			<Items Frame="36170">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.035993" />
+			</Items>
+			<Items Frame="36171">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.04615927" />
+			</Items>
+			<Items Frame="36172">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.05115759" />
+			</Items>
+			<Items Frame="36173">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.051027" />
+			</Items>
+			<Items Frame="36174">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.04580688" />
+			</Items>
+			<Items Frame="36175">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.03553629" />
+			</Items>
+			<Items Frame="36176">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.02025425" />
+			</Items>
+			<Items Frame="36177">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="36178">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.976547062" />
+			</Items>
+			<Items Frame="36179">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.951708436" />
+			</Items>
+			<Items Frame="36180">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9255828" />
+			</Items>
+			<Items Frame="36181">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.898268759" />
+			</Items>
+			<Items Frame="36182">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8698648" />
+			</Items>
+			<Items Frame="36183">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.840469658" />
+			</Items>
+			<Items Frame="36184">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8101818" />
+			</Items>
+			<Items Frame="36185">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.779099941" />
+			</Items>
+			<Items Frame="36186">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.747322559" />
+			</Items>
+			<Items Frame="36187">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7149483" />
+			</Items>
+			<Items Frame="36188">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6820758" />
+			</Items>
+			<Items Frame="36189">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6488036" />
+			</Items>
+			<Items Frame="36190">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6152303" />
+			</Items>
+			<Items Frame="36191">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5814546" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36192">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5475749" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36193">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5136899" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36194">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.4798982" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36195">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.44629845" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36196">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.41298914" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36197">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.3800689" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36198">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.347636372" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36199">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.3157901" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36200">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.2846287" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36201">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.254250735" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36202">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.22475484" />
+			</Items>
+			<Items Frame="36203">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.196239591" />
+			</Items>
+			<Items Frame="36204">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.1688036" />
+			</Items>
+			<Items Frame="36205">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.142545462" />
+			</Items>
+			<Items Frame="36206">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.117563739" />
+			</Items>
+			<Items Frame="36207">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.09395707" />
+			</Items>
+			<Items Frame="36208">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0718240142" />
+			</Items>
+			<Items Frame="36209">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0512631871" />
+			</Items>
+			<Items Frame="36210">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.03237318" />
+			</Items>
+			<Items Frame="36211">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0152525846" />
+			</Items>
+			<Items Frame="36212">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="36213">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0139015811" />
+			</Items>
+			<Items Frame="36214">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.02703207" />
+			</Items>
+			<Items Frame="36215">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0393872261" />
+			</Items>
+			<Items Frame="36216">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0509628057" />
+			</Items>
+			<Items Frame="36217">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0617545731" />
+			</Items>
+			<Items Frame="36218">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0717582852" />
+			</Items>
+			<Items Frame="36219">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0809697" />
+			</Items>
+			<Items Frame="36220">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.08938458" />
+			</Items>
+			<Items Frame="36221">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.09699868" />
+			</Items>
+			<Items Frame="36222">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.103807755" />
+			</Items>
+			<Items Frame="36223">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.109807581" />
+			</Items>
+			<Items Frame="36224">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.114993908" />
+			</Items>
+			<Items Frame="36225">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.119362488" />
+			</Items>
+			<Items Frame="36226">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.122909091" />
+			</Items>
+			<Items Frame="36227">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.12562947" />
+			</Items>
+			<Items Frame="36228">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.1275194" />
+			</Items>
+			<Items Frame="36229">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.12857461" />
+			</Items>
+			<Items Frame="36230">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.128790885" />
+			</Items>
+			<Items Frame="36231">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.128163978" />
+			</Items>
+			<Items Frame="36232">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.126689643" />
+			</Items>
+			<Items Frame="36233">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.124363638" />
+			</Items>
+			<Items Frame="36234">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.121181726" />
+			</Items>
+			<Items Frame="36235">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.117139675" />
+			</Items>
+			<Items Frame="36236">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.112233236" />
+			</Items>
+			<Items Frame="36237">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.106458165" />
+			</Items>
+			<Items Frame="36238">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.09981023" />
+			</Items>
+			<Items Frame="36239">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0922851861" />
+			</Items>
+			<Items Frame="36240">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0838787854" />
+			</Items>
+			<Items Frame="36241">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0745868" />
+			</Items>
+			<Items Frame="36242">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.06440498" />
+			</Items>
+			<Items Frame="36243">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.05332909" />
+			</Items>
+			<Items Frame="36244">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.04135489" />
+			</Items>
+			<Items Frame="36245">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0284781344" />
+			</Items>
+			<Items Frame="36246">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0146945845" />
+			</Items>
+			<Items Frame="36247">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="36248">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.01651839" />
+			</Items>
+			<Items Frame="36249">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0356618576" />
+			</Items>
+			<Items Frame="36250">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.05726739" />
+			</Items>
+			<Items Frame="36251">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.08117198" />
+			</Items>
+			<Items Frame="36252">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.107212618" />
+			</Items>
+			<Items Frame="36253">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.1352263" />
+			</Items>
+			<Items Frame="36254">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.165049985" />
+			</Items>
+			<Items Frame="36255">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.1965207" />
+			</Items>
+			<Items Frame="36256">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.229475424" />
+			</Items>
+			<Items Frame="36257">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.263751149" />
+			</Items>
+			<Items Frame="36258">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.299184829" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36259">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.335613519" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36260">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.372874141" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36261">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.410803735" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36262">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.449239284" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36263">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.488017768" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36264">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.526976168" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36265">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.565951467" />
+			</Items>
+			<Items Frame="36266">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6047807" />
+			</Items>
+			<Items Frame="36267">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6433008" />
+			</Items>
+			<Items Frame="36268">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6813488" />
+			</Items>
+			<Items Frame="36269">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7187616" />
+			</Items>
+			<Items Frame="36270">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.755376339" />
+			</Items>
+			<Items Frame="36271">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.79102993" />
+			</Items>
+			<Items Frame="36272">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8255594" />
+			</Items>
+			<Items Frame="36273">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8588016" />
+			</Items>
+			<Items Frame="36274">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8905937" />
+			</Items>
+			<Items Frame="36275">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.920772552" />
+			</Items>
+			<Items Frame="36276">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.949175239" />
+			</Items>
+			<Items Frame="36277">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.975638747" />
+			</Items>
+			<Items Frame="36278">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="36279">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.0214045" />
+			</Items>
+			<Items Frame="36280">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.03907478" />
+			</Items>
+			<Items Frame="36281">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.05296373" />
+			</Items>
+			<Items Frame="36282">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.06302392" />
+			</Items>
+			<Items Frame="36283">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.06920815" />
+			</Items>
+			<Items Frame="36284">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.07146907" />
+			</Items>
+			<Items Frame="36285">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.06975961" />
+			</Items>
+			<Items Frame="36286">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.06403232" />
+			</Items>
+			<Items Frame="36287">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.05424" />
+			</Items>
+			<Items Frame="36288">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.0403353" />
+			</Items>
+			<Items Frame="36289">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.022271" />
+			</Items>
+			<Items Frame="36290">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="36291">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.974383" />
+			</Items>
+			<Items Frame="36292">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.946438" />
+			</Items>
+			<Items Frame="36293">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9163534" />
+			</Items>
+			<Items Frame="36294">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8843174" />
+			</Items>
+			<Items Frame="36295">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8505183" />
+			</Items>
+			<Items Frame="36296">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8151444" />
+			</Items>
+			<Items Frame="36297">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7783841" />
+			</Items>
+			<Items Frame="36298">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7404256" />
+			</Items>
+			<Items Frame="36299">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7014572" />
+			</Items>
+			<Items Frame="36300">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6616673" />
+			</Items>
+			<Items Frame="36301">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6212441" />
+			</Items>
+			<Items Frame="36302">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5803759" />
+			</Items>
+			<Items Frame="36303">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5392511" />
+			</Items>
+			<Items Frame="36304">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.498057842" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36305">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.45698458" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36306">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.416219532" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36307">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.375951022" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36308">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.336367369" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36309">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.2976568" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36310">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.2600077" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36311">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.223608345" />
+			</Items>
+			<Items Frame="36312">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.188647017" />
+			</Items>
+			<Items Frame="36313">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.155312032" />
+			</Items>
+			<Items Frame="36314">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.12379168" />
+			</Items>
+			<Items Frame="36315">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.09427426" />
+			</Items>
+			<Items Frame="36316">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.066948086" />
+			</Items>
+			<Items Frame="36317">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0420014523" />
+			</Items>
+			<Items Frame="36318">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0196226556" />
+			</Items>
+			<Items Frame="36319">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="36320">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0175078921" />
+			</Items>
+			<Items Frame="36321">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.03366387" />
+			</Items>
+			<Items Frame="36322">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0484618433" />
+			</Items>
+			<Items Frame="36323">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0618957244" />
+			</Items>
+			<Items Frame="36324">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0739594251" />
+			</Items>
+			<Items Frame="36325">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.08464685" />
+			</Items>
+			<Items Frame="36326">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.09395191" />
+			</Items>
+			<Items Frame="36327">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.101868525" />
+			</Items>
+			<Items Frame="36328">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.108390592" />
+			</Items>
+			<Items Frame="36329">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.113512032" />
+			</Items>
+			<Items Frame="36330">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.11722675" />
+			</Items>
+			<Items Frame="36331">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.119528659" />
+			</Items>
+			<Items Frame="36332">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.120411664" />
+			</Items>
+			<Items Frame="36333">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.119869679" />
+			</Items>
+			<Items Frame="36334">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.117896616" />
+			</Items>
+			<Items Frame="36335">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.114486381" />
+			</Items>
+			<Items Frame="36336">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.109632894" />
+			</Items>
+			<Items Frame="36337">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.103330053" />
+			</Items>
+			<Items Frame="36338">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.09557177" />
+			</Items>
+			<Items Frame="36339">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.08635196" />
+			</Items>
+			<Items Frame="36340">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0756645352" />
+			</Items>
+			<Items Frame="36341">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.06350341" />
+			</Items>
+			<Items Frame="36342">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0498624742" />
+			</Items>
+			<Items Frame="36343">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0347356573" />
+			</Items>
+			<Items Frame="36344">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="-0.0181168616" />
+			</Items>
+			<Items Frame="36345">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="36346">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0205712374" />
+			</Items>
+			<Items Frame="36347">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.04439058" />
+			</Items>
+			<Items Frame="36348">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.07122025" />
+			</Items>
+			<Items Frame="36349">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.100822464" />
+			</Items>
+			<Items Frame="36350">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.13295944" />
+			</Items>
+			<Items Frame="36351">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.1673934" />
+			</Items>
+			<Items Frame="36352">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.203886569" />
+			</Items>
+			<Items Frame="36353">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.242201149" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36354">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.282099366" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36355">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.323343456" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36356">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.365695626" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36357">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.408918083" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36358">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.452773064" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36359">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.4970228" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36360">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.54142946" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36361">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.585755348" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36362">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6297626" />
+			</Items>
+			<Items Frame="36363">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6732134" />
+			</Items>
+			<Items Frame="36364">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.715870142" />
+			</Items>
+			<Items Frame="36365">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.757494867" />
+			</Items>
+			<Items Frame="36366">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7978499" />
+			</Items>
+			<Items Frame="36367">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8366974" />
+			</Items>
+			<Items Frame="36368">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8737996" />
+			</Items>
+			<Items Frame="36369">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9089188" />
+			</Items>
+			<Items Frame="36370">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9418171" />
+			</Items>
+			<Items Frame="36371">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9722567" />
+			</Items>
+			<Items Frame="36372">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="36373">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.02417934" />
+			</Items>
+			<Items Frame="36374">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.04398334" />
+			</Items>
+			<Items Frame="36375">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.05925846" />
+			</Items>
+			<Items Frame="36376">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.0698514" />
+			</Items>
+			<Items Frame="36377">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.07560837" />
+			</Items>
+			<Items Frame="36378">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.076376" />
+			</Items>
+			<Items Frame="36379">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.07200062" />
+			</Items>
+			<Items Frame="36380">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.06232893" />
+			</Items>
+			<Items Frame="36381">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.04720724" />
+			</Items>
+			<Items Frame="36382">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1.02648211" />
+			</Items>
+			<Items Frame="36383">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="36384">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9696841" />
+			</Items>
+			<Items Frame="36385">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.9376133" />
+			</Items>
+			<Items Frame="36386">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.903867245" />
+			</Items>
+			<Items Frame="36387">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.868525743" />
+			</Items>
+			<Items Frame="36388">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.8316686" />
+			</Items>
+			<Items Frame="36389">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.793375552" />
+			</Items>
+			<Items Frame="36390">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7537263" />
+			</Items>
+			<Items Frame="36391">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.7128008" />
+			</Items>
+			<Items Frame="36392">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6706786" />
+			</Items>
+			<Items Frame="36393">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.6274397" />
+			</Items>
+			<Items Frame="36394">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.583163738" />
+			</Items>
+			<Items Frame="36395">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.5379305" />
+			</Items>
+			<Items Frame="36396">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.491819739" />
+			</Items>
+			<Items Frame="36397">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.444911271" />
+			</Items>
+			<Items Frame="36398">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.397284836" />
+			</Items>
+			<Items Frame="36399">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.349020243" />
+			</Items>
+			<Items Frame="36400">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.300197244" />
+			</Items>
+			<Items Frame="36401">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.250895619" />
+			</Items>
+			<Items Frame="36402">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.201195136" />
+			</Items>
+			<Items Frame="36403">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.151175559" />
+			</Items>
+			<Items Frame="36404">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.100916654" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36405">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0.0504982136" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36406">
+				<Items xsi:type="FloatAttribute" Name="OneLegSquatsBehindProgress_Left" Value="0" />
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36407">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36408">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36409">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36410">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36411">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+			<Items Frame="36412">
+				<Items xsi:type="BoolAttribute" Name="OneLegSquatsBehind_Left" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

@@ -1,0 +1,2041 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-07-11</Date>
+			<Time>12:47:26.1547760+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>SacklineSitAlongFootLineBentRight.xef</Clip>
+			<StartFrame>13974</StartFrame>
+			<EndFrame>15800</EndFrame>
+			<ID>64a5acd4-f80a-44a8-a382-43c8545fb46a</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>14799</CurrentFrameStart>
+			<CurrentFrameEnd>14800</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="14719">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14720">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14721">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14722">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14723">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14724">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14725">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14726">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14727">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14728">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14729">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14730">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14731">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14732">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14733">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14734">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14735">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14736">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14737">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14738">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14739">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14740">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14741">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14742">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14743">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14744">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14745">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14746">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14747">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14748">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14749">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14750">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14751">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14752">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14753">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14754">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14755">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14756">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14757">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14758">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14759">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14760">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14761">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14762">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14763">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14764">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14765">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14766">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14767">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14768">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14769">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14770">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14771">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14772">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14773">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14774">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14775">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14776">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14777">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14778">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14779">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14780">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14781">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14782">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14783">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14784">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14785">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14786">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14787">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14788">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14789">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14790">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14791">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14792">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14793">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14794">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14795">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14796">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14797">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14798">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14799">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14800">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14801">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14802">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14803">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14804">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14805">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14806">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14807">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14808">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14809">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14810">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14811">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14812">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14813">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14814">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14815">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14816">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14817">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14818">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14819">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14820">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14821">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14822">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14823">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14824">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14825">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14826">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14827">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14828">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14829">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14830">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14831">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14832">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14833">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14834">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14835">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14836">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14837">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14838">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14839">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14840">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14841">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14842">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14843">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14844">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14845">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14846">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14847">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14848">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14849">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14850">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14851">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14852">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14853">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14854">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14855">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14856">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14857">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14858">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14859">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14860">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14861">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14862">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14863">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14864">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14865">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14866">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14867">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14868">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14869">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14870">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14871">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14872">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14873">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14874">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14875">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14876">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14877">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14878">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14879">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14880">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14881">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14882">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14883">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14884">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14885">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14886">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14887">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14888">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14889">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14890">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14891">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14892">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14893">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14894">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14895">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14896">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14897">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14898">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14899">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14900">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14901">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14902">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14903">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14966">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14967">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14968">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14969">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14970">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14971">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14972">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14973">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14974">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14975">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14976">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14977">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14978">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14979">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14980">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14981">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14982">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14983">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14984">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14985">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14986">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14987">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14988">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14989">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14990">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14991">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14992">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14993">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14994">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14995">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14996">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14997">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14998">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="14999">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15000">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15001">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15002">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15003">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15004">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15005">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15006">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15007">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15008">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15009">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15010">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15011">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15012">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15013">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15014">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15015">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15016">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15017">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15018">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15019">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15020">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15021">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15022">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15023">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15024">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15025">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15026">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15027">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15028">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15029">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15030">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15031">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15032">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15033">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15034">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15035">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15036">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15037">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15038">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15039">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15040">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15041">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15042">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15043">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15044">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15045">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15046">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15047">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15048">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15049">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15050">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15051">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15052">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15053">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15054">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15055">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15056">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15057">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15058">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15059">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15060">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15061">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15062">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15063">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15064">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15065">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15066">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15067">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15068">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15069">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15070">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15071">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15072">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15073">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15074">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15075">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15076">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15077">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15078">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15079">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15080">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15081">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15082">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15083">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15084">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15085">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15086">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15087">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15088">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15089">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15090">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15091">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15092">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15093">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15094">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15095">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15096">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15097">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15098">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15099">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15100">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15101">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15102">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15103">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15104">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15105">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15106">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15107">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15108">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15109">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15110">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15111">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15112">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15113">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15114">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15115">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15116">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15117">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15118">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15119">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15120">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15121">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15207">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15208">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15209">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15210">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15211">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15212">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15213">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15214">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15215">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15216">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15217">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15218">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15219">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15220">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15221">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15222">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15223">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15224">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15225">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15226">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15227">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15228">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15229">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15230">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15231">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15232">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15233">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15234">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15235">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15236">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15237">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15238">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15239">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15240">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15241">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15242">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15243">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15244">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15245">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15246">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15247">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15248">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15249">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15250">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15251">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15252">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15253">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15254">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15255">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15256">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15257">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15258">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15259">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15260">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15261">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15262">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15263">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15264">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15265">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15266">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15267">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15268">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15269">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15270">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15271">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15272">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15273">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15274">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15275">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15276">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15277">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15278">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15279">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15280">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15281">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15282">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15283">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15284">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15285">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15286">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15287">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15288">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15289">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15290">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15291">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15292">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15293">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15294">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15295">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15296">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15297">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15298">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15299">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15300">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15301">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15302">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15303">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15304">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15305">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15306">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15307">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15308">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15309">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15310">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15311">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15312">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15313">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15314">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15315">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15316">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15317">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15318">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15319">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15320">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15321">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15322">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15323">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15324">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15325">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15326">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15327">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15328">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15329">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15330">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15331">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15332">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15333">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15334">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15335">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15336">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15337">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15338">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15339">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15340">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15341">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15342">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15343">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15344">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15345">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15346">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15347">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15348">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15349">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15350">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15351">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15352">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15353">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15354">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15355">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15356">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15357">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15358">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15359">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15360">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15361">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15362">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15363">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15364">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15365">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15366">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15367">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15368">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15369">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15370">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15371">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15372">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15373">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15374">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15375">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15376">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15377">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15378">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15379">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15380">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15381">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15382">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15383">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15384">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15385">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15386">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15387">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15388">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15389">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15390">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15391">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15392">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15393">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15394">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15395">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15396">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15397">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15398">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15399">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15400">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15401">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15402">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15403">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15404">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15405">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15406">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15474">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15475">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15476">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15477">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15478">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15479">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15480">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15481">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15482">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15483">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15484">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15485">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15486">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15487">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15488">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15489">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15490">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15491">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15492">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15493">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15494">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15495">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15496">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15497">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15498">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15499">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15500">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15501">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15502">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15503">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15504">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15505">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15506">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15507">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15508">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15509">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15510">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15511">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15512">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15513">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15514">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15515">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15516">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15517">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15518">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15519">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15520">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15521">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15522">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15523">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15524">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15525">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15526">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15527">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15528">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15529">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15530">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15531">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15532">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15533">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15534">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15535">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15536">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15537">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15538">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15539">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15540">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15541">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15542">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15543">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15544">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15545">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15546">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15547">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15548">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15549">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15550">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15551">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15552">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15553">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15554">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15555">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15556">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15557">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15558">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15559">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15560">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15561">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15562">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15563">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15564">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15565">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15566">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15567">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15568">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15569">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15570">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15571">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15572">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15573">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15574">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15575">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15576">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15577">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15578">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15579">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15580">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15581">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15582">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15583">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15584">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15585">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15586">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15587">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15588">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15589">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15590">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15591">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15592">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15593">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15594">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15595">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15596">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15597">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15598">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15599">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15600">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15601">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+			<Items Frame="15602">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootLineBent_Right" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

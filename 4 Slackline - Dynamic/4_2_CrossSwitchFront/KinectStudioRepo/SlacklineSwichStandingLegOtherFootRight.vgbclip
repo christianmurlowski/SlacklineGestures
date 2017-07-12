@@ -1,0 +1,3122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-07-11</Date>
+			<Time>08:59:36.7523544+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>SlacklineSwichStandingLegOtherFootRight.xef</Clip>
+			<StartFrame>34990</StartFrame>
+			<EndFrame>36587</EndFrame>
+			<ID>cb6204b6-69b6-4232-a5af-641c21b34b6a</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>35281</CurrentFrameStart>
+			<CurrentFrameEnd>35282</CurrentFrameEnd>
+			<AttributeInterpolations>
+				<Items>
+					<Description Name="OtherSwitchFrontProgress_Right" Type="FLOAT" />
+					<Start>35264</Start>
+					<End>36452</End>
+					<Method>Bezier</Method>
+				</Items>
+			</AttributeInterpolations>
+			<AttributeKeys>
+				<Items Frame="35264">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35337">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+				</Items>
+				<Items Frame="35359">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+				</Items>
+				<Items Frame="35440">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35572">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="35680">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+				</Items>
+				<Items Frame="35701">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+				</Items>
+				<Items Frame="35751">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="35885">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="36010">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+				</Items>
+				<Items Frame="36011">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+				</Items>
+				<Items Frame="36029">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+				</Items>
+				<Items Frame="36106">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1" />
+				</Items>
+				<Items Frame="36273">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0" />
+				</Items>
+				<Items Frame="36342">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+				</Items>
+				<Items Frame="36363">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+				</Items>
+				<Items Frame="36451">
+					<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1" />
+				</Items>
+			</AttributeKeys>
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="35264">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35265">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.007642245" />
+			</Items>
+			<Items Frame="35266">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0152835967" />
+			</Items>
+			<Items Frame="35267">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0229231622" />
+			</Items>
+			<Items Frame="35268">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.03056005" />
+			</Items>
+			<Items Frame="35269">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0381933637" />
+			</Items>
+			<Items Frame="35270">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0458222143" />
+			</Items>
+			<Items Frame="35271">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.053445708" />
+			</Items>
+			<Items Frame="35272">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.06106295" />
+			</Items>
+			<Items Frame="35273">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.06867305" />
+			</Items>
+			<Items Frame="35274">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.07627511" />
+			</Items>
+			<Items Frame="35275">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.08386825" />
+			</Items>
+			<Items Frame="35276">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0914515555" />
+			</Items>
+			<Items Frame="35277">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0990241542" />
+			</Items>
+			<Items Frame="35278">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.106585138" />
+			</Items>
+			<Items Frame="35279">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.114133626" />
+			</Items>
+			<Items Frame="35280">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.121668719" />
+			</Items>
+			<Items Frame="35281">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.129189521" />
+			</Items>
+			<Items Frame="35282">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.136695147" />
+			</Items>
+			<Items Frame="35283">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.144184709" />
+			</Items>
+			<Items Frame="35284">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.151657283" />
+			</Items>
+			<Items Frame="35285">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.159112021" />
+			</Items>
+			<Items Frame="35286">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.166548" />
+			</Items>
+			<Items Frame="35287">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.173964322" />
+			</Items>
+			<Items Frame="35288">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.181360111" />
+			</Items>
+			<Items Frame="35289">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.188734487" />
+			</Items>
+			<Items Frame="35290">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.196086526" />
+			</Items>
+			<Items Frame="35291">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.203415349" />
+			</Items>
+			<Items Frame="35292">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.210720062" />
+			</Items>
+			<Items Frame="35293">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.217999771" />
+			</Items>
+			<Items Frame="35294">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.225253582" />
+			</Items>
+			<Items Frame="35295">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.232480615" />
+			</Items>
+			<Items Frame="35296">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.239679962" />
+			</Items>
+			<Items Frame="35297">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.246850729" />
+			</Items>
+			<Items Frame="35298">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.253992051" />
+			</Items>
+			<Items Frame="35299">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.261102974" />
+			</Items>
+			<Items Frame="35300">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.268182665" />
+			</Items>
+			<Items Frame="35301">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.275230229" />
+			</Items>
+			<Items Frame="35302">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.282244742" />
+			</Items>
+			<Items Frame="35303">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.2892253" />
+			</Items>
+			<Items Frame="35304">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.296171069" />
+			</Items>
+			<Items Frame="35305">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3030811" />
+			</Items>
+			<Items Frame="35306">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.309954524" />
+			</Items>
+			<Items Frame="35307">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.316790432" />
+			</Items>
+			<Items Frame="35308">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.323587984" />
+			</Items>
+			<Items Frame="35309">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3303462" />
+			</Items>
+			<Items Frame="35310">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.337064266" />
+			</Items>
+			<Items Frame="35311">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.343741238" />
+			</Items>
+			<Items Frame="35312">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.350376248" />
+			</Items>
+			<Items Frame="35313">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3569684" />
+			</Items>
+			<Items Frame="35314">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.363516778" />
+			</Items>
+			<Items Frame="35315">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.370020539" />
+			</Items>
+			<Items Frame="35316">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.376478732" />
+			</Items>
+			<Items Frame="35317">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.382890522" />
+			</Items>
+			<Items Frame="35318">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.389254957" />
+			</Items>
+			<Items Frame="35319">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3955712" />
+			</Items>
+			<Items Frame="35320">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.401838332" />
+			</Items>
+			<Items Frame="35321">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.408055425" />
+			</Items>
+			<Items Frame="35322">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.414221644" />
+			</Items>
+			<Items Frame="35323">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.420336068" />
+			</Items>
+			<Items Frame="35324">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.42639783" />
+			</Items>
+			<Items Frame="35325">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.432405978" />
+			</Items>
+			<Items Frame="35326">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.438359678" />
+			</Items>
+			<Items Frame="35327">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.444258" />
+			</Items>
+			<Items Frame="35328">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4501001" />
+			</Items>
+			<Items Frame="35329">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.455885023" />
+			</Items>
+			<Items Frame="35330">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.461611927" />
+			</Items>
+			<Items Frame="35331">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.467279881" />
+			</Items>
+			<Items Frame="35332">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.472888" />
+			</Items>
+			<Items Frame="35333">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.478435427" />
+			</Items>
+			<Items Frame="35334">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4839212" />
+			</Items>
+			<Items Frame="35335">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4893445" />
+			</Items>
+			<Items Frame="35336">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4947044" />
+			</Items>
+			<Items Frame="35337">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+			</Items>
+			<Items Frame="35338">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.504584968" />
+			</Items>
+			<Items Frame="35339">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5078971" />
+			</Items>
+			<Items Frame="35340">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5100618" />
+			</Items>
+			<Items Frame="35341">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.511204541" />
+			</Items>
+			<Items Frame="35342">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5114507" />
+			</Items>
+			<Items Frame="35343">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5109258" />
+			</Items>
+			<Items Frame="35344">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5097552" />
+			</Items>
+			<Items Frame="35345">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.50806427" />
+			</Items>
+			<Items Frame="35346">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5059785" />
+			</Items>
+			<Items Frame="35347">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.503623366" />
+			</Items>
+			<Items Frame="35348">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.501124144" />
+			</Items>
+			<Items Frame="35349">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4986064" />
+			</Items>
+			<Items Frame="35350">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.496195465" />
+			</Items>
+			<Items Frame="35351">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.494016826" />
+			</Items>
+			<Items Frame="35352">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.492195845" />
+			</Items>
+			<Items Frame="35353">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.490858" />
+			</Items>
+			<Items Frame="35354">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.490128666" />
+			</Items>
+			<Items Frame="35355">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.490133315" />
+			</Items>
+			<Items Frame="35356">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.490997344" />
+			</Items>
+			<Items Frame="35357">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4928462" />
+			</Items>
+			<Items Frame="35358">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.495805264" />
+			</Items>
+			<Items Frame="35359">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+			</Items>
+			<Items Frame="35360">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.504990637" />
+			</Items>
+			<Items Frame="35361">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5102477" />
+			</Items>
+			<Items Frame="35362">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5157623" />
+			</Items>
+			<Items Frame="35363">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5215254" />
+			</Items>
+			<Items Frame="35364">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.527528" />
+			</Items>
+			<Items Frame="35365">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5337611" />
+			</Items>
+			<Items Frame="35366">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5402157" />
+			</Items>
+			<Items Frame="35367">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.546882749" />
+			</Items>
+			<Items Frame="35368">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5537533" />
+			</Items>
+			<Items Frame="35369">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.560818434" />
+			</Items>
+			<Items Frame="35370">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.568069041" />
+			</Items>
+			<Items Frame="35371">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5754962" />
+			</Items>
+			<Items Frame="35372">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.583090842" />
+			</Items>
+			<Items Frame="35373">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.590844" />
+			</Items>
+			<Items Frame="35374">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.598746657" />
+			</Items>
+			<Items Frame="35375">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6067899" />
+			</Items>
+			<Items Frame="35376">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6149646" />
+			</Items>
+			<Items Frame="35377">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6232619" />
+			</Items>
+			<Items Frame="35378">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6316727" />
+			</Items>
+			<Items Frame="35379">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.640188038" />
+			</Items>
+			<Items Frame="35380">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6487989" />
+			</Items>
+			<Items Frame="35381">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.657496333" />
+			</Items>
+			<Items Frame="35382">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.666271269" />
+			</Items>
+			<Items Frame="35383">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.675114751" />
+			</Items>
+			<Items Frame="35384">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.684017837" />
+			</Items>
+			<Items Frame="35385">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6929714" />
+			</Items>
+			<Items Frame="35386">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7019666" />
+			</Items>
+			<Items Frame="35387">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.710994244" />
+			</Items>
+			<Items Frame="35388">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7200455" />
+			</Items>
+			<Items Frame="35389">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7291114" />
+			</Items>
+			<Items Frame="35390">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7381827" />
+			</Items>
+			<Items Frame="35391">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7472507" />
+			</Items>
+			<Items Frame="35392">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7563062" />
+			</Items>
+			<Items Frame="35393">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.765340269" />
+			</Items>
+			<Items Frame="35394">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7743439" />
+			</Items>
+			<Items Frame="35395">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.783308148" />
+			</Items>
+			<Items Frame="35396">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.792224" />
+			</Items>
+			<Items Frame="35397">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8010824" />
+			</Items>
+			<Items Frame="35398">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.809874356" />
+			</Items>
+			<Items Frame="35399">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8185909" />
+			</Items>
+			<Items Frame="35400">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.827223063" />
+			</Items>
+			<Items Frame="35401">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8357618" />
+			</Items>
+			<Items Frame="35402">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8441981" />
+			</Items>
+			<Items Frame="35403">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.852523" />
+			</Items>
+			<Items Frame="35404">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.860727549" />
+			</Items>
+			<Items Frame="35405">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.868802667" />
+			</Items>
+			<Items Frame="35406">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.876739442" />
+			</Items>
+			<Items Frame="35407">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.884528756" />
+			</Items>
+			<Items Frame="35408">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.892161667" />
+			</Items>
+			<Items Frame="35409">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.899629235" />
+			</Items>
+			<Items Frame="35410">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9069224" />
+			</Items>
+			<Items Frame="35411">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.914032161" />
+			</Items>
+			<Items Frame="35412">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9209496" />
+			</Items>
+			<Items Frame="35413">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9276656" />
+			</Items>
+			<Items Frame="35414">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.934171259" />
+			</Items>
+			<Items Frame="35415">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9404575" />
+			</Items>
+			<Items Frame="35416">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9465154" />
+			</Items>
+			<Items Frame="35417">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.952335954" />
+			</Items>
+			<Items Frame="35418">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.957910061" />
+			</Items>
+			<Items Frame="35419">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9632289" />
+			</Items>
+			<Items Frame="35420">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9682833" />
+			</Items>
+			<Items Frame="35421">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9730644" />
+			</Items>
+			<Items Frame="35422">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.977563143" />
+			</Items>
+			<Items Frame="35423">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.981770456" />
+			</Items>
+			<Items Frame="35424">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9856775" />
+			</Items>
+			<Items Frame="35425">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.989275157" />
+			</Items>
+			<Items Frame="35426">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9925545" />
+			</Items>
+			<Items Frame="35427">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.995506465" />
+			</Items>
+			<Items Frame="35428">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9981221" />
+			</Items>
+			<Items Frame="35429">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00039244" />
+			</Items>
+			<Items Frame="35430">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00230837" />
+			</Items>
+			<Items Frame="35431">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.003861" />
+			</Items>
+			<Items Frame="35432">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00504124" />
+			</Items>
+			<Items Frame="35433">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00584018" />
+			</Items>
+			<Items Frame="35434">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00624883" />
+			</Items>
+			<Items Frame="35435">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00625813" />
+			</Items>
+			<Items Frame="35436">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00585914" />
+			</Items>
+			<Items Frame="35437">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00504291" />
+			</Items>
+			<Items Frame="35438">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00380027" />
+			</Items>
+			<Items Frame="35439">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00212228" />
+			</Items>
+			<Items Frame="35440">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35572">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35573">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.001952681" />
+			</Items>
+			<Items Frame="35574">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.003646618" />
+			</Items>
+			<Items Frame="35575">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00508565176" />
+			</Items>
+			<Items Frame="35576">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.006273623" />
+			</Items>
+			<Items Frame="35577">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.007214373" />
+			</Items>
+			<Items Frame="35578">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.007911742" />
+			</Items>
+			<Items Frame="35579">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00836957153" />
+			</Items>
+			<Items Frame="35580">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.008591701" />
+			</Items>
+			<Items Frame="35581">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.008581974" />
+			</Items>
+			<Items Frame="35582">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.008344229" />
+			</Items>
+			<Items Frame="35583">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.007882308" />
+			</Items>
+			<Items Frame="35584">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.007200051" />
+			</Items>
+			<Items Frame="35585">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00630129967" />
+			</Items>
+			<Items Frame="35586">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00518989423" />
+			</Items>
+			<Items Frame="35587">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.003869676" />
+			</Items>
+			<Items Frame="35588">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00234448561" />
+			</Items>
+			<Items Frame="35589">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.0006181641" />
+			</Items>
+			<Items Frame="35590">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.00130544789" />
+			</Items>
+			<Items Frame="35591">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.00342250941" />
+			</Items>
+			<Items Frame="35592">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.00572917936" />
+			</Items>
+			<Items Frame="35593">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.008221618" />
+			</Items>
+			<Items Frame="35594">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0108959824" />
+			</Items>
+			<Items Frame="35595">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0137484334" />
+			</Items>
+			<Items Frame="35596">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.01677513" />
+			</Items>
+			<Items Frame="35597">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0199722312" />
+			</Items>
+			<Items Frame="35598">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0233358946" />
+			</Items>
+			<Items Frame="35599">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0268622823" />
+			</Items>
+			<Items Frame="35600">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.03054755" />
+			</Items>
+			<Items Frame="35601">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.03438786" />
+			</Items>
+			<Items Frame="35602">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.03837937" />
+			</Items>
+			<Items Frame="35603">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.04251824" />
+			</Items>
+			<Items Frame="35604">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.04680063" />
+			</Items>
+			<Items Frame="35605">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0512226932" />
+			</Items>
+			<Items Frame="35606">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0557805933" />
+			</Items>
+			<Items Frame="35607">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.06047049" />
+			</Items>
+			<Items Frame="35608">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.06528854" />
+			</Items>
+			<Items Frame="35609">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.07023091" />
+			</Items>
+			<Items Frame="35610">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.07529375" />
+			</Items>
+			<Items Frame="35611">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.08047322" />
+			</Items>
+			<Items Frame="35612">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.08576549" />
+			</Items>
+			<Items Frame="35613">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0911667049" />
+			</Items>
+			<Items Frame="35614">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.09667303" />
+			</Items>
+			<Items Frame="35615">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.102280624" />
+			</Items>
+			<Items Frame="35616">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.107985646" />
+			</Items>
+			<Items Frame="35617">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.113784254" />
+			</Items>
+			<Items Frame="35618">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.119672604" />
+			</Items>
+			<Items Frame="35619">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.125646874" />
+			</Items>
+			<Items Frame="35620">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.1317032" />
+			</Items>
+			<Items Frame="35621">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.137837738" />
+			</Items>
+			<Items Frame="35622">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.144046679" />
+			</Items>
+			<Items Frame="35623">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.150326148" />
+			</Items>
+			<Items Frame="35624">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.156672329" />
+			</Items>
+			<Items Frame="35625">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.163081363" />
+			</Items>
+			<Items Frame="35626">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.16954942" />
+			</Items>
+			<Items Frame="35627">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.176072657" />
+			</Items>
+			<Items Frame="35628">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.182647228" />
+			</Items>
+			<Items Frame="35629">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.189269289" />
+			</Items>
+			<Items Frame="35630">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.195935026" />
+			</Items>
+			<Items Frame="35631">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.202640563" />
+			</Items>
+			<Items Frame="35632">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.209382072" />
+			</Items>
+			<Items Frame="35633">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.216155723" />
+			</Items>
+			<Items Frame="35634">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.222957671" />
+			</Items>
+			<Items Frame="35635">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.229784057" />
+			</Items>
+			<Items Frame="35636">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.236631066" />
+			</Items>
+			<Items Frame="35637">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.243494838" />
+			</Items>
+			<Items Frame="35638">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.250371546" />
+			</Items>
+			<Items Frame="35639">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.257257342" />
+			</Items>
+			<Items Frame="35640">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.264148384" />
+			</Items>
+			<Items Frame="35641">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.271040827" />
+			</Items>
+			<Items Frame="35642">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.277930826" />
+			</Items>
+			<Items Frame="35643">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.284814566" />
+			</Items>
+			<Items Frame="35644">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.2916882" />
+			</Items>
+			<Items Frame="35645">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.298547864" />
+			</Items>
+			<Items Frame="35646">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.305389732" />
+			</Items>
+			<Items Frame="35647">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.312209964" />
+			</Items>
+			<Items Frame="35648">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3190047" />
+			</Items>
+			<Items Frame="35649">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.32577014" />
+			</Items>
+			<Items Frame="35650">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.332502425" />
+			</Items>
+			<Items Frame="35651">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.339197665" />
+			</Items>
+			<Items Frame="35652">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3458521" />
+			</Items>
+			<Items Frame="35653">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.352461845" />
+			</Items>
+			<Items Frame="35654">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.359023064" />
+			</Items>
+			<Items Frame="35655">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.365531921" />
+			</Items>
+			<Items Frame="35656">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.371984571" />
+			</Items>
+			<Items Frame="35657">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.378377169" />
+			</Items>
+			<Items Frame="35658">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.384705871" />
+			</Items>
+			<Items Frame="35659">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.390966862" />
+			</Items>
+			<Items Frame="35660">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.397156268" />
+			</Items>
+			<Items Frame="35661">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.403270274" />
+			</Items>
+			<Items Frame="35662">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.409305" />
+			</Items>
+			<Items Frame="35663">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.415256679" />
+			</Items>
+			<Items Frame="35664">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4211214" />
+			</Items>
+			<Items Frame="35665">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.42689535" />
+			</Items>
+			<Items Frame="35666">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4325747" />
+			</Items>
+			<Items Frame="35667">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.438155562" />
+			</Items>
+			<Items Frame="35668">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.443634152" />
+			</Items>
+			<Items Frame="35669">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.449006617" />
+			</Items>
+			<Items Frame="35670">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.454269081" />
+			</Items>
+			<Items Frame="35671">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.459417731" />
+			</Items>
+			<Items Frame="35672">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.46444872" />
+			</Items>
+			<Items Frame="35673">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4693582" />
+			</Items>
+			<Items Frame="35674">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.474142373" />
+			</Items>
+			<Items Frame="35675">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.478797317" />
+			</Items>
+			<Items Frame="35676">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.483319283" />
+			</Items>
+			<Items Frame="35677">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.487704366" />
+			</Items>
+			<Items Frame="35678">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.491948724" />
+			</Items>
+			<Items Frame="35679">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.49604857" />
+			</Items>
+			<Items Frame="35680">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+			</Items>
+			<Items Frame="35681">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.503196239" />
+			</Items>
+			<Items Frame="35682">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5051321" />
+			</Items>
+			<Items Frame="35683">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.505956" />
+			</Items>
+			<Items Frame="35684">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.505816638" />
+			</Items>
+			<Items Frame="35685">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5048624" />
+			</Items>
+			<Items Frame="35686">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.503242" />
+			</Items>
+			<Items Frame="35687">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.501103938" />
+			</Items>
+			<Items Frame="35688">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.498596728" />
+			</Items>
+			<Items Frame="35689">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4958689" />
+			</Items>
+			<Items Frame="35690">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.493069023" />
+			</Items>
+			<Items Frame="35691">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.490345657" />
+			</Items>
+			<Items Frame="35692">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.487847358" />
+			</Items>
+			<Items Frame="35693">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.485722631" />
+			</Items>
+			<Items Frame="35694">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.484120041" />
+			</Items>
+			<Items Frame="35695">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.483188152" />
+			</Items>
+			<Items Frame="35696">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.483075529" />
+			</Items>
+			<Items Frame="35697">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.483930647" />
+			</Items>
+			<Items Frame="35698">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.485902131" />
+			</Items>
+			<Items Frame="35699">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.489138484" />
+			</Items>
+			<Items Frame="35700">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.493788242" />
+			</Items>
+			<Items Frame="35701">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+			</Items>
+			<Items Frame="35702">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5074086" />
+			</Items>
+			<Items Frame="35703">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.515525" />
+			</Items>
+			<Items Frame="35704">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.524311364" />
+			</Items>
+			<Items Frame="35705">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.533730268" />
+			</Items>
+			<Items Frame="35706">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.543743968" />
+			</Items>
+			<Items Frame="35707">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.554314852" />
+			</Items>
+			<Items Frame="35708">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.565405369" />
+			</Items>
+			<Items Frame="35709">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.576977849" />
+			</Items>
+			<Items Frame="35710">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5889947" />
+			</Items>
+			<Items Frame="35711">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.601418257" />
+			</Items>
+			<Items Frame="35712">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6142109" />
+			</Items>
+			<Items Frame="35713">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6273351" />
+			</Items>
+			<Items Frame="35714">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.64075315" />
+			</Items>
+			<Items Frame="35715">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6544274" />
+			</Items>
+			<Items Frame="35716">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.668320358" />
+			</Items>
+			<Items Frame="35717">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.682394266" />
+			</Items>
+			<Items Frame="35718">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6966116" />
+			</Items>
+			<Items Frame="35719">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7109347" />
+			</Items>
+			<Items Frame="35720">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.725325942" />
+			</Items>
+			<Items Frame="35721">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7397477" />
+			</Items>
+			<Items Frame="35722">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7541624" />
+			</Items>
+			<Items Frame="35723">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.768532336" />
+			</Items>
+			<Items Frame="35724">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.78282" />
+			</Items>
+			<Items Frame="35725">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.796987653" />
+			</Items>
+			<Items Frame="35726">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8109978" />
+			</Items>
+			<Items Frame="35727">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8248127" />
+			</Items>
+			<Items Frame="35728">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8383948" />
+			</Items>
+			<Items Frame="35729">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.851706445" />
+			</Items>
+			<Items Frame="35730">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8647101" />
+			</Items>
+			<Items Frame="35731">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.877368033" />
+			</Items>
+			<Items Frame="35732">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.889642656" />
+			</Items>
+			<Items Frame="35733">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9014964" />
+			</Items>
+			<Items Frame="35734">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9128916" />
+			</Items>
+			<Items Frame="35735">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.923790634" />
+			</Items>
+			<Items Frame="35736">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.934155941" />
+			</Items>
+			<Items Frame="35737">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9439498" />
+			</Items>
+			<Items Frame="35738">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.953134656" />
+			</Items>
+			<Items Frame="35739">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.961672843" />
+			</Items>
+			<Items Frame="35740">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9695268" />
+			</Items>
+			<Items Frame="35741">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9766589" />
+			</Items>
+			<Items Frame="35742">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9830315" />
+			</Items>
+			<Items Frame="35743">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.988607" />
+			</Items>
+			<Items Frame="35744">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9933477" />
+			</Items>
+			<Items Frame="35745">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.997216046" />
+			</Items>
+			<Items Frame="35746">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.0001744" />
+			</Items>
+			<Items Frame="35747">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00218523" />
+			</Items>
+			<Items Frame="35748">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00321078" />
+			</Items>
+			<Items Frame="35749">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00321352" />
+			</Items>
+			<Items Frame="35750">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00215578" />
+			</Items>
+			<Items Frame="35751">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="35885">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="35886">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00183574157" />
+			</Items>
+			<Items Frame="35887">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00348348846" />
+			</Items>
+			<Items Frame="35888">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00494553056" />
+			</Items>
+			<Items Frame="35889">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00622415729" />
+			</Items>
+			<Items Frame="35890">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00732165761" />
+			</Items>
+			<Items Frame="35891">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.008240322" />
+			</Items>
+			<Items Frame="35892">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.008982439" />
+			</Items>
+			<Items Frame="35893">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.009550299" />
+			</Items>
+			<Items Frame="35894">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00994619" />
+			</Items>
+			<Items Frame="35895">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.0101724034" />
+			</Items>
+			<Items Frame="35896">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.0102312276" />
+			</Items>
+			<Items Frame="35897">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.0101249525" />
+			</Items>
+			<Items Frame="35898">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.009855867" />
+			</Items>
+			<Items Frame="35899">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.009426261" />
+			</Items>
+			<Items Frame="35900">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.008838424" />
+			</Items>
+			<Items Frame="35901">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.008094647" />
+			</Items>
+			<Items Frame="35902">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00719721662" />
+			</Items>
+			<Items Frame="35903">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.006148424" />
+			</Items>
+			<Items Frame="35904">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00495055877" />
+			</Items>
+			<Items Frame="35905">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00360590988" />
+			</Items>
+			<Items Frame="35906">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00211676722" />
+			</Items>
+			<Items Frame="35907">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.000485419936" />
+			</Items>
+			<Items Frame="35908">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.00128584215" />
+			</Items>
+			<Items Frame="35909">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0031947298" />
+			</Items>
+			<Items Frame="35910">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.005238953" />
+			</Items>
+			<Items Frame="35911">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.007416223" />
+			</Items>
+			<Items Frame="35912">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.00972425" />
+			</Items>
+			<Items Frame="35913">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0121607445" />
+			</Items>
+			<Items Frame="35914">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0147234164" />
+			</Items>
+			<Items Frame="35915">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0174099766" />
+			</Items>
+			<Items Frame="35916">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0202181358" />
+			</Items>
+			<Items Frame="35917">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0231456049" />
+			</Items>
+			<Items Frame="35918">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0261900946" />
+			</Items>
+			<Items Frame="35919">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0293493122" />
+			</Items>
+			<Items Frame="35920">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0326209739" />
+			</Items>
+			<Items Frame="35921">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.036002785" />
+			</Items>
+			<Items Frame="35922">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0394924581" />
+			</Items>
+			<Items Frame="35923">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0430877022" />
+			</Items>
+			<Items Frame="35924">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.04678623" />
+			</Items>
+			<Items Frame="35925">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0505857542" />
+			</Items>
+			<Items Frame="35926">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.05448398" />
+			</Items>
+			<Items Frame="35927">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.05847862" />
+			</Items>
+			<Items Frame="35928">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.06256738" />
+			</Items>
+			<Items Frame="35929">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0667479858" />
+			</Items>
+			<Items Frame="35930">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.07101813" />
+			</Items>
+			<Items Frame="35931">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0753755346" />
+			</Items>
+			<Items Frame="35932">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.079817906" />
+			</Items>
+			<Items Frame="35933">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.08434295" />
+			</Items>
+			<Items Frame="35934">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0889483839" />
+			</Items>
+			<Items Frame="35935">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0936319157" />
+			</Items>
+			<Items Frame="35936">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.09839126" />
+			</Items>
+			<Items Frame="35937">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.103224121" />
+			</Items>
+			<Items Frame="35938">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.108128212" />
+			</Items>
+			<Items Frame="35939">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.113101244" />
+			</Items>
+			<Items Frame="35940">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.118140928" />
+			</Items>
+			<Items Frame="35941">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.123244971" />
+			</Items>
+			<Items Frame="35942">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.128411084" />
+			</Items>
+			<Items Frame="35943">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.133636981" />
+			</Items>
+			<Items Frame="35944">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.138920367" />
+			</Items>
+			<Items Frame="35945">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.144258961" />
+			</Items>
+			<Items Frame="35946">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.149650469" />
+			</Items>
+			<Items Frame="35947">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.155092612" />
+			</Items>
+			<Items Frame="35948">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.160583064" />
+			</Items>
+			<Items Frame="35949">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.16611959" />
+			</Items>
+			<Items Frame="35950">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.171699852" />
+			</Items>
+			<Items Frame="35951">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.177321583" />
+			</Items>
+			<Items Frame="35952">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.182982489" />
+			</Items>
+			<Items Frame="35953">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.188680291" />
+			</Items>
+			<Items Frame="35954">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.1944127" />
+			</Items>
+			<Items Frame="35955">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.200177386" />
+			</Items>
+			<Items Frame="35956">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.20597212" />
+			</Items>
+			<Items Frame="35957">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.21179457" />
+			</Items>
+			<Items Frame="35958">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.217642456" />
+			</Items>
+			<Items Frame="35959">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.2235135" />
+			</Items>
+			<Items Frame="35960">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.2294054" />
+			</Items>
+			<Items Frame="35961">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.235315874" />
+			</Items>
+			<Items Frame="35962">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.241242632" />
+			</Items>
+			<Items Frame="35963">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.247183383" />
+			</Items>
+			<Items Frame="35964">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.25313583" />
+			</Items>
+			<Items Frame="35965">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.2590977" />
+			</Items>
+			<Items Frame="35966">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.265066683" />
+			</Items>
+			<Items Frame="35967">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.2710405" />
+			</Items>
+			<Items Frame="35968">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.277016878" />
+			</Items>
+			<Items Frame="35969">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.2829935" />
+			</Items>
+			<Items Frame="35970">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.2889681" />
+			</Items>
+			<Items Frame="35971">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.294938356" />
+			</Items>
+			<Items Frame="35972">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.300902" />
+			</Items>
+			<Items Frame="35973">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.306856751" />
+			</Items>
+			<Items Frame="35974">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.312800318" />
+			</Items>
+			<Items Frame="35975">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.318730384" />
+			</Items>
+			<Items Frame="35976">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.324644685" />
+			</Items>
+			<Items Frame="35977">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.330540925" />
+			</Items>
+			<Items Frame="35978">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3364168" />
+			</Items>
+			<Items Frame="35979">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.342270076" />
+			</Items>
+			<Items Frame="35980">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3480984" />
+			</Items>
+			<Items Frame="35981">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.353899479" />
+			</Items>
+			<Items Frame="35982">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3596711" />
+			</Items>
+			<Items Frame="35983">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3654109" />
+			</Items>
+			<Items Frame="35984">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3711166" />
+			</Items>
+			<Items Frame="35985">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.376785934" />
+			</Items>
+			<Items Frame="35986">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3824166" />
+			</Items>
+			<Items Frame="35987">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3880063" />
+			</Items>
+			<Items Frame="35988">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.39355278" />
+			</Items>
+			<Items Frame="35989">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3990537" />
+			</Items>
+			<Items Frame="35990">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4045068" />
+			</Items>
+			<Items Frame="35991">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4099098" />
+			</Items>
+			<Items Frame="35992">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4152604" />
+			</Items>
+			<Items Frame="35993">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.420556277" />
+			</Items>
+			<Items Frame="35994">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4257952" />
+			</Items>
+			<Items Frame="35995">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.430974841" />
+			</Items>
+			<Items Frame="35996">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4360929" />
+			</Items>
+			<Items Frame="35997">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.441147149" />
+			</Items>
+			<Items Frame="35998">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.446135253" />
+			</Items>
+			<Items Frame="35999">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4510549" />
+			</Items>
+			<Items Frame="36000">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.455903858" />
+			</Items>
+			<Items Frame="36001">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.46067977" />
+			</Items>
+			<Items Frame="36002">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4653804" />
+			</Items>
+			<Items Frame="36003">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.470003456" />
+			</Items>
+			<Items Frame="36004">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.474546641" />
+			</Items>
+			<Items Frame="36005">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.479007632" />
+			</Items>
+			<Items Frame="36006">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.483384162" />
+			</Items>
+			<Items Frame="36007">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.487673968" />
+			</Items>
+			<Items Frame="36008">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.491874725" />
+			</Items>
+			<Items Frame="36009">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.495984167" />
+			</Items>
+			<Items Frame="36010">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+			</Items>
+			<Items Frame="36011">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+			</Items>
+			<Items Frame="36012">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.499723852" />
+			</Items>
+			<Items Frame="36013">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.498960376" />
+			</Items>
+			<Items Frame="36014">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.497807026" />
+			</Items>
+			<Items Frame="36015">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4963613" />
+			</Items>
+			<Items Frame="36016">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4947206" />
+			</Items>
+			<Items Frame="36017">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.492982447" />
+			</Items>
+			<Items Frame="36018">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.491244316" />
+			</Items>
+			<Items Frame="36019">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.489603639" />
+			</Items>
+			<Items Frame="36020">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4881579" />
+			</Items>
+			<Items Frame="36021">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.487004548" />
+			</Items>
+			<Items Frame="36022">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.486241072" />
+			</Items>
+			<Items Frame="36023">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.485964924" />
+			</Items>
+			<Items Frame="36024">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.486273557" />
+			</Items>
+			<Items Frame="36025">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.487264454" />
+			</Items>
+			<Items Frame="36026">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4890351" />
+			</Items>
+			<Items Frame="36027">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.491682917" />
+			</Items>
+			<Items Frame="36028">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4953054" />
+			</Items>
+			<Items Frame="36029">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+			</Items>
+			<Items Frame="36030">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5054044" />
+			</Items>
+			<Items Frame="36031">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.511084735" />
+			</Items>
+			<Items Frame="36032">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5170311" />
+			</Items>
+			<Items Frame="36033">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.523233533" />
+			</Items>
+			<Items Frame="36034">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5296823" />
+			</Items>
+			<Items Frame="36035">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.536367357" />
+			</Items>
+			<Items Frame="36036">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5432789" />
+			</Items>
+			<Items Frame="36037">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.550407" />
+			</Items>
+			<Items Frame="36038">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.557741761" />
+			</Items>
+			<Items Frame="36039">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.565273345" />
+			</Items>
+			<Items Frame="36040">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.572991848" />
+			</Items>
+			<Items Frame="36041">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5808873" />
+			</Items>
+			<Items Frame="36042">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5889499" />
+			</Items>
+			<Items Frame="36043">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.597169757" />
+			</Items>
+			<Items Frame="36044">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.605536938" />
+			</Items>
+			<Items Frame="36045">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.614041567" />
+			</Items>
+			<Items Frame="36046">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6226738" />
+			</Items>
+			<Items Frame="36047">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.631423652" />
+			</Items>
+			<Items Frame="36048">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6402813" />
+			</Items>
+			<Items Frame="36049">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.649236858" />
+			</Items>
+			<Items Frame="36050">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6582804" />
+			</Items>
+			<Items Frame="36051">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.667402" />
+			</Items>
+			<Items Frame="36052">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6765919" />
+			</Items>
+			<Items Frame="36053">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.68584013" />
+			</Items>
+			<Items Frame="36054">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6951367" />
+			</Items>
+			<Items Frame="36055">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.704471946" />
+			</Items>
+			<Items Frame="36056">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7138358" />
+			</Items>
+			<Items Frame="36057">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.723218441" />
+			</Items>
+			<Items Frame="36058">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7326099" />
+			</Items>
+			<Items Frame="36059">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7420004" />
+			</Items>
+			<Items Frame="36060">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.75138" />
+			</Items>
+			<Items Frame="36061">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7607388" />
+			</Items>
+			<Items Frame="36062">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7700669" />
+			</Items>
+			<Items Frame="36063">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7793545" />
+			</Items>
+			<Items Frame="36064">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.788591564" />
+			</Items>
+			<Items Frame="36065">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.797768354" />
+			</Items>
+			<Items Frame="36066">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8068748" />
+			</Items>
+			<Items Frame="36067">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8159012" />
+			</Items>
+			<Items Frame="36068">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.824837565" />
+			</Items>
+			<Items Frame="36069">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.833674" />
+			</Items>
+			<Items Frame="36070">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.84240067" />
+			</Items>
+			<Items Frame="36071">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8510076" />
+			</Items>
+			<Items Frame="36072">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.859485" />
+			</Items>
+			<Items Frame="36073">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8678229" />
+			</Items>
+			<Items Frame="36074">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.876011431" />
+			</Items>
+			<Items Frame="36075">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8840407" />
+			</Items>
+			<Items Frame="36076">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.891900837" />
+			</Items>
+			<Items Frame="36077">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.899581969" />
+			</Items>
+			<Items Frame="36078">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.907074153" />
+			</Items>
+			<Items Frame="36079">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.914367557" />
+			</Items>
+			<Items Frame="36080">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9214522" />
+			</Items>
+			<Items Frame="36081">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9283183" />
+			</Items>
+			<Items Frame="36082">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.934955955" />
+			</Items>
+			<Items Frame="36083">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.941355169" />
+			</Items>
+			<Items Frame="36084">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9475061" />
+			</Items>
+			<Items Frame="36085">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.953398943" />
+			</Items>
+			<Items Frame="36086">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9590238" />
+			</Items>
+			<Items Frame="36087">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9643706" />
+			</Items>
+			<Items Frame="36088">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9694296" />
+			</Items>
+			<Items Frame="36089">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.97419095" />
+			</Items>
+			<Items Frame="36090">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.978644669" />
+			</Items>
+			<Items Frame="36091">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9827809" />
+			</Items>
+			<Items Frame="36092">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9865897" />
+			</Items>
+			<Items Frame="36093">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.990061343" />
+			</Items>
+			<Items Frame="36094">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9931857" />
+			</Items>
+			<Items Frame="36095">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9959531" />
+			</Items>
+			<Items Frame="36096">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9983535" />
+			</Items>
+			<Items Frame="36097">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.000377" />
+			</Items>
+			<Items Frame="36098">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00201392" />
+			</Items>
+			<Items Frame="36099">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00325418" />
+			</Items>
+			<Items Frame="36100">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00408792" />
+			</Items>
+			<Items Frame="36101">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00450528" />
+			</Items>
+			<Items Frame="36102">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00449634" />
+			</Items>
+			<Items Frame="36103">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00405121" />
+			</Items>
+			<Items Frame="36104">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00316012" />
+			</Items>
+			<Items Frame="36105">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1.00181293" />
+			</Items>
+			<Items Frame="36106">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1" />
+			</Items>
+			<Items Frame="36273">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0" />
+			</Items>
+			<Items Frame="36274">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00182501168" />
+			</Items>
+			<Items Frame="36275">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00307204737" />
+			</Items>
+			<Items Frame="36276">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00375504" />
+			</Items>
+			<Items Frame="36277">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.0038879225" />
+			</Items>
+			<Items Frame="36278">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.003484628" />
+			</Items>
+			<Items Frame="36279">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00255908933" />
+			</Items>
+			<Items Frame="36280">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="-0.00112523988" />
+			</Items>
+			<Items Frame="36281">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0008029877" />
+			</Items>
+			<Items Frame="36282">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.00321166031" />
+			</Items>
+			<Items Frame="36283">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.006086845" />
+			</Items>
+			<Items Frame="36284">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.009414609" />
+			</Items>
+			<Items Frame="36285">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0131810177" />
+			</Items>
+			<Items Frame="36286">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.01737214" />
+			</Items>
+			<Items Frame="36287">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0219740439" />
+			</Items>
+			<Items Frame="36288">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.026972793" />
+			</Items>
+			<Items Frame="36289">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0323544554" />
+			</Items>
+			<Items Frame="36290">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0381051" />
+			</Items>
+			<Items Frame="36291">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.04421079" />
+			</Items>
+			<Items Frame="36292">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0506576" />
+			</Items>
+			<Items Frame="36293">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.05743159" />
+			</Items>
+			<Items Frame="36294">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0645188242" />
+			</Items>
+			<Items Frame="36295">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.07190538" />
+			</Items>
+			<Items Frame="36296">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.07957732" />
+			</Items>
+			<Items Frame="36297">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.0875207" />
+			</Items>
+			<Items Frame="36298">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.09572161" />
+			</Items>
+			<Items Frame="36299">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.1041661" />
+			</Items>
+			<Items Frame="36300">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.112840235" />
+			</Items>
+			<Items Frame="36301">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.121730089" />
+			</Items>
+			<Items Frame="36302">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.130821735" />
+			</Items>
+			<Items Frame="36303">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.140101224" />
+			</Items>
+			<Items Frame="36304">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.14955464" />
+			</Items>
+			<Items Frame="36305">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.159168035" />
+			</Items>
+			<Items Frame="36306">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.168927476" />
+			</Items>
+			<Items Frame="36307">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.178819045" />
+			</Items>
+			<Items Frame="36308">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.188828811" />
+			</Items>
+			<Items Frame="36309">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.198942825" />
+			</Items>
+			<Items Frame="36310">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.209147155" />
+			</Items>
+			<Items Frame="36311">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.219427869" />
+			</Items>
+			<Items Frame="36312">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.229771048" />
+			</Items>
+			<Items Frame="36313">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.240162745" />
+			</Items>
+			<Items Frame="36314">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.250589" />
+			</Items>
+			<Items Frame="36315">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.261035979" />
+			</Items>
+			<Items Frame="36316">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.27148962" />
+			</Items>
+			<Items Frame="36317">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.281936079" />
+			</Items>
+			<Items Frame="36318">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.292361379" />
+			</Items>
+			<Items Frame="36319">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.302751631" />
+			</Items>
+			<Items Frame="36320">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.313092858" />
+			</Items>
+			<Items Frame="36321">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.3233711" />
+			</Items>
+			<Items Frame="36322">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.333572537" />
+			</Items>
+			<Items Frame="36323">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.343683124" />
+			</Items>
+			<Items Frame="36324">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.353689" />
+			</Items>
+			<Items Frame="36325">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.363576174" />
+			</Items>
+			<Items Frame="36326">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.373330742" />
+			</Items>
+			<Items Frame="36327">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.382938772" />
+			</Items>
+			<Items Frame="36328">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.392386347" />
+			</Items>
+			<Items Frame="36329">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4016595" />
+			</Items>
+			<Items Frame="36330">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4107443" />
+			</Items>
+			<Items Frame="36331">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.419626862" />
+			</Items>
+			<Items Frame="36332">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4282932" />
+			</Items>
+			<Items Frame="36333">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.436729372" />
+			</Items>
+			<Items Frame="36334">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.444921523" />
+			</Items>
+			<Items Frame="36335">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.452855647" />
+			</Items>
+			<Items Frame="36336">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.460517824" />
+			</Items>
+			<Items Frame="36337">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.467894137" />
+			</Items>
+			<Items Frame="36338">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.474970639" />
+			</Items>
+			<Items Frame="36339">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4817334" />
+			</Items>
+			<Items Frame="36340">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.488168538" />
+			</Items>
+			<Items Frame="36341">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.49426204" />
+			</Items>
+			<Items Frame="36342">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+			</Items>
+			<Items Frame="36343">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.504831" />
+			</Items>
+			<Items Frame="36344">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.508304954" />
+			</Items>
+			<Items Frame="36345">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5105598" />
+			</Items>
+			<Items Frame="36346">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5117336" />
+			</Items>
+			<Items Frame="36347">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.511964262" />
+			</Items>
+			<Items Frame="36348">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.511389852" />
+			</Items>
+			<Items Frame="36349">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.510148346" />
+			</Items>
+			<Items Frame="36350">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5083778" />
+			</Items>
+			<Items Frame="36351">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.506216049" />
+			</Items>
+			<Items Frame="36352">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5038012" />
+			</Items>
+			<Items Frame="36353">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5012713" />
+			</Items>
+			<Items Frame="36354">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.498764277" />
+			</Items>
+			<Items Frame="36355">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.496418118" />
+			</Items>
+			<Items Frame="36356">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.494370818" />
+			</Items>
+			<Items Frame="36357">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.49276042" />
+			</Items>
+			<Items Frame="36358">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.491724849" />
+			</Items>
+			<Items Frame="36359">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.491402179" />
+			</Items>
+			<Items Frame="36360">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.491930336" />
+			</Items>
+			<Items Frame="36361">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.4934474" />
+			</Items>
+			<Items Frame="36362">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.496091276" />
+			</Items>
+			<Items Frame="36363">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5" />
+			</Items>
+			<Items Frame="36364">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.50460577" />
+			</Items>
+			<Items Frame="36365">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5092484" />
+			</Items>
+			<Items Frame="36366">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5139275" />
+			</Items>
+			<Items Frame="36367">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.518642664" />
+			</Items>
+			<Items Frame="36368">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5233934" />
+			</Items>
+			<Items Frame="36369">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5281794" />
+			</Items>
+			<Items Frame="36370">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5330001" />
+			</Items>
+			<Items Frame="36371">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5378552" />
+			</Items>
+			<Items Frame="36372">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5427443" />
+			</Items>
+			<Items Frame="36373">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5476668" />
+			</Items>
+			<Items Frame="36374">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5526224" />
+			</Items>
+			<Items Frame="36375">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.557610631" />
+			</Items>
+			<Items Frame="36376">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.56263113" />
+			</Items>
+			<Items Frame="36377">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5676834" />
+			</Items>
+			<Items Frame="36378">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5727671" />
+			</Items>
+			<Items Frame="36379">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5778817" />
+			</Items>
+			<Items Frame="36380">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5830269" />
+			</Items>
+			<Items Frame="36381">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5882021" />
+			</Items>
+			<Items Frame="36382">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5934071" />
+			</Items>
+			<Items Frame="36383">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.5986413" />
+			</Items>
+			<Items Frame="36384">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.603904366" />
+			</Items>
+			<Items Frame="36385">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6091958" />
+			</Items>
+			<Items Frame="36386">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.614515245" />
+			</Items>
+			<Items Frame="36387">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.619862258" />
+			</Items>
+			<Items Frame="36388">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.625236452" />
+			</Items>
+			<Items Frame="36389">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6306373" />
+			</Items>
+			<Items Frame="36390">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.63606447" />
+			</Items>
+			<Items Frame="36391">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6415175" />
+			</Items>
+			<Items Frame="36392">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.646995962" />
+			</Items>
+			<Items Frame="36393">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6524995" />
+			</Items>
+			<Items Frame="36394">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6580276" />
+			</Items>
+			<Items Frame="36395">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6635798" />
+			</Items>
+			<Items Frame="36396">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.669155836" />
+			</Items>
+			<Items Frame="36397">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6747552" />
+			</Items>
+			<Items Frame="36398">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6803774" />
+			</Items>
+			<Items Frame="36399">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.686022162" />
+			</Items>
+			<Items Frame="36400">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6916889" />
+			</Items>
+			<Items Frame="36401">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.6973773" />
+			</Items>
+			<Items Frame="36402">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7030869" />
+			</Items>
+			<Items Frame="36403">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.708817244" />
+			</Items>
+			<Items Frame="36404">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.714568" />
+			</Items>
+			<Items Frame="36405">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.720338643" />
+			</Items>
+			<Items Frame="36406">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7261288" />
+			</Items>
+			<Items Frame="36407">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.731938064" />
+			</Items>
+			<Items Frame="36408">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.737765968" />
+			</Items>
+			<Items Frame="36409">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7436121" />
+			</Items>
+			<Items Frame="36410">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7494761" />
+			</Items>
+			<Items Frame="36411">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.755357444" />
+			</Items>
+			<Items Frame="36412">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.761255741" />
+			</Items>
+			<Items Frame="36413">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.767170548" />
+			</Items>
+			<Items Frame="36414">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7731015" />
+			</Items>
+			<Items Frame="36415">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7790482" />
+			</Items>
+			<Items Frame="36416">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.7850101" />
+			</Items>
+			<Items Frame="36417">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.790986836" />
+			</Items>
+			<Items Frame="36418">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.796978056" />
+			</Items>
+			<Items Frame="36419">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8029832" />
+			</Items>
+			<Items Frame="36420">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8090019" />
+			</Items>
+			<Items Frame="36421">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.815033853" />
+			</Items>
+			<Items Frame="36422">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8210784" />
+			</Items>
+			<Items Frame="36423">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8271353" />
+			</Items>
+			<Items Frame="36424">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.83320415" />
+			</Items>
+			<Items Frame="36425">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.83928436" />
+			</Items>
+			<Items Frame="36426">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8453756" />
+			</Items>
+			<Items Frame="36427">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.851477444" />
+			</Items>
+			<Items Frame="36428">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8575895" />
+			</Items>
+			<Items Frame="36429">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8637113" />
+			</Items>
+			<Items Frame="36430">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8698424" />
+			</Items>
+			<Items Frame="36431">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.875982463" />
+			</Items>
+			<Items Frame="36432">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8821309" />
+			</Items>
+			<Items Frame="36433">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8882875" />
+			</Items>
+			<Items Frame="36434">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.8944517" />
+			</Items>
+			<Items Frame="36435">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9006231" />
+			</Items>
+			<Items Frame="36436">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9068013" />
+			</Items>
+			<Items Frame="36437">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.912985861" />
+			</Items>
+			<Items Frame="36438">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.91917634" />
+			</Items>
+			<Items Frame="36439">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.925372362" />
+			</Items>
+			<Items Frame="36440">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.931573451" />
+			</Items>
+			<Items Frame="36441">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9377792" />
+			</Items>
+			<Items Frame="36442">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.943989158" />
+			</Items>
+			<Items Frame="36443">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.950203" />
+			</Items>
+			<Items Frame="36444">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9564202" />
+			</Items>
+			<Items Frame="36445">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.962640345" />
+			</Items>
+			<Items Frame="36446">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.96886307" />
+			</Items>
+			<Items Frame="36447">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.975087941" />
+			</Items>
+			<Items Frame="36448">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9813145" />
+			</Items>
+			<Items Frame="36449">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9875423" />
+			</Items>
+			<Items Frame="36450">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="0.9937709" />
+			</Items>
+			<Items Frame="36451">
+				<Items xsi:type="BoolAttribute" Name="OtherSwitchFront_Right" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="OtherSwitchFrontProgress_Right" Value="1" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

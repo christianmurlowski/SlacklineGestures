@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-07-04</Date>
+			<Time>13:33:18.0656133+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>OneLegGroundTEST4.xef</Clip>
+			<StartFrame>12475</StartFrame>
+			<EndFrame>13850</EndFrame>
+			<ID>053c0af6-fdda-4dc7-81fa-2069e29de9c5</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>12894</CurrentFrameStart>
+			<CurrentFrameEnd>12895</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="12918">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12919">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12920">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12921">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12922">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12923">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12924">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12925">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12926">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12927">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12928">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12929">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12930">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12931">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12932">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12933">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12934">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12935">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12936">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12937">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12938">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12939">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12940">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12941">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12942">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12943">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12944">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12945">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12946">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12947">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12948">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12949">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12950">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12951">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12952">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12953">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12954">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12955">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12956">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12957">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12958">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12959">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12960">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12961">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12962">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12963">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12964">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12965">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12966">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12967">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12968">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12969">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12970">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12971">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12972">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12973">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12974">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12975">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12976">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12977">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12978">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12979">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12980">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12981">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12982">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12983">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12984">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12985">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12986">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12987">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12988">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12989">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12990">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="12991">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Right" Value="true" />
+			</Items>
+			<Items Frame="13336">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13337">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13338">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13339">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13340">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13341">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13342">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13343">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13344">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13345">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13346">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13347">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13348">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13349">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13350">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13351">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13352">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13353">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13354">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13355">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13356">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13357">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13358">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13359">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13360">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13361">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13362">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13363">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13364">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13365">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13366">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13367">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13368">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13369">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13370">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13371">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13372">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13373">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13374">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13375">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13376">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13377">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13378">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13379">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13380">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13381">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13382">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13383">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13384">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13385">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13386">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13387">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13388">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13389">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13390">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13391">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13392">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13393">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13394">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13395">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13396">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13397">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13398">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13399">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13400">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13401">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13402">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13403">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13404">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13405">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13406">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13407">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13408">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13409">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13410">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13411">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13412">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13578">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13579">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13580">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13581">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13582">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13583">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13584">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13585">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13586">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13587">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13588">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13589">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13590">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13591">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13592">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13593">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13594">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13595">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13596">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+			<Items Frame="13597">
+				<Items xsi:type="BoolAttribute" Name="GroundLeg_Left" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2017-07-12</Date>
+			<Time>15:19:01.7422891+02:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>c916f0a0-1152-4193-b8e9-46e4ef02ce87</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>1_3_ArmsCrossed/ArmsCrossed_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_3_ArmsCrossed/ArmsCrossed_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_2_ArmsOut/ArmsOut_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_2_ArmsOut/ArmsOut_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_6_Circle/Circle_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_6_Circle/Circle_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_4_FixateFront/FixateFront_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_4_FixateFront/FixateFront_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_5_FixateSide/FixateSide_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_5_FixateSide/FixateSide_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_1_Ground_Left/Ground_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_1_Ground_Left/Ground_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_7_Knee/Knee_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_7_Knee/Knee_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_8_SquatsBehind/SquatsBehindProgress_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_8_SquatsBehind/SquatsBehindProgress_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_9_SquatsFront/SquatsFrontProgress_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>1_9_SquatsFront/SquatsFrontProgress_Right.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

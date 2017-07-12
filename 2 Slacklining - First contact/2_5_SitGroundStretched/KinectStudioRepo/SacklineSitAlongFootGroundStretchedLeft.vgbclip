@@ -1,0 +1,1819 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-07-10</Date>
+			<Time>09:13:05.1659320+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>SacklineSitAlongFootGroundStretchedLeft.xef</Clip>
+			<StartFrame>2922</StartFrame>
+			<EndFrame>4301</EndFrame>
+			<ID>f7c28a2b-b5dc-44d5-993e-166c320c9a6b</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>3567</CurrentFrameStart>
+			<CurrentFrameEnd>3568</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="3329">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3330">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3331">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3332">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3333">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3334">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3335">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3336">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3337">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3338">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3339">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3340">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3341">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3342">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3343">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3344">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3345">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3346">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3347">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3348">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3349">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3350">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3351">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3352">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3353">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3354">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3355">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3356">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3357">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3358">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3359">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3360">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3361">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3362">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3363">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3364">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3365">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3366">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3367">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3368">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3369">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3370">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3371">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3372">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3373">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3374">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3375">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3376">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3377">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3378">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3379">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3380">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3381">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3382">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3383">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3384">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3385">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3386">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3387">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3388">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3389">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3390">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3391">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3392">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3393">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3394">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3395">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3396">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3397">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3398">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3399">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3400">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3401">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3402">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3403">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3404">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3405">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3406">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3407">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3408">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3409">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3410">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3411">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3412">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3413">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3414">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3415">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3416">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3417">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3418">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3419">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3420">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3421">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3422">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3423">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3424">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3489">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3490">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3491">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3492">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3493">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3494">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3495">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3496">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3497">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3498">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3499">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3500">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3501">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3502">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3503">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3504">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3505">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3506">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3507">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3508">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3509">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3510">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3511">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3512">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3513">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3514">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3515">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3516">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3517">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3518">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3519">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3520">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3521">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3522">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3523">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3524">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3525">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3526">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3527">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3528">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3529">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3530">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3531">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3532">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3533">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3534">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3535">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3536">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3537">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3538">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3539">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3540">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3541">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3542">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3543">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3544">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3545">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3546">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3547">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3548">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3549">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3550">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3551">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3552">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3553">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3554">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3555">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3556">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3557">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3558">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3559">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3560">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3561">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3562">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3563">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3564">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3565">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3566">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3567">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3568">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3569">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3570">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3571">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3572">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3573">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3574">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3575">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3576">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3577">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3578">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3579">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3580">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3581">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3582">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3583">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3584">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3585">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3586">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3587">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3588">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3589">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3590">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3591">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3592">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3593">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3594">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3595">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3596">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3597">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3598">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3599">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3600">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3601">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3602">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3603">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3604">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3605">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3606">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3607">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3608">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3609">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3610">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3611">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3612">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3613">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3614">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3615">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3616">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3617">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3618">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3619">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3620">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3621">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3622">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3623">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3624">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3625">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3626">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3627">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3628">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3629">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3630">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3631">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3632">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3633">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3634">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3635">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3636">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3637">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3638">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3639">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3640">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3641">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3642">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3643">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3644">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3645">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3646">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3647">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3648">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3649">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3650">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3651">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3652">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3653">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3654">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3655">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3656">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3712">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3713">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3714">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3715">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3716">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3717">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3718">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3719">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3720">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3721">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3722">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3723">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3724">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3725">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3726">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3727">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3728">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3729">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3730">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3731">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3732">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3733">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3734">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3735">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3736">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3737">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3738">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3739">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3740">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3741">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3742">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3743">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3744">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3745">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3746">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3747">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3748">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3749">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3750">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3751">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3752">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3753">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3754">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3755">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3756">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3757">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3758">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3759">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3760">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3761">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3762">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3763">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3764">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3765">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3766">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3767">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3768">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3769">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3770">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3771">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3772">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3773">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3774">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3775">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3776">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3777">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3778">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3779">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3780">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3781">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3782">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3783">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3784">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3785">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3786">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3787">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3788">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3789">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3790">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3791">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3792">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3793">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3794">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3795">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3796">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3797">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3798">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3799">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3800">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3801">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3802">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3803">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3804">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3805">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3806">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3807">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3808">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3809">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3810">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3811">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3812">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3813">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3814">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3878">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3879">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3880">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3881">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3882">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3883">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3884">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3885">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3886">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3887">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3888">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3889">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3890">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3891">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3892">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3893">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3894">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3895">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3896">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3897">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3898">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3899">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3900">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3901">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3902">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3903">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3904">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3905">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3906">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3907">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3908">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3909">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3910">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3911">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3912">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3913">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3914">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3915">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3916">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3917">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3918">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3919">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3920">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3921">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3922">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3923">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3924">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3925">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3926">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3927">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3928">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3929">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3930">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3931">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3932">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3933">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3934">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3935">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3936">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3937">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3938">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3939">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3940">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3941">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3942">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3943">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3944">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3945">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3946">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3947">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3948">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3949">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3950">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3951">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3952">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3953">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3954">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3955">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3956">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3957">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3958">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3959">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3960">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3961">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3962">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3963">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3964">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3965">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3966">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3967">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3968">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3969">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3970">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3971">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3972">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3973">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3974">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3975">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3976">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3977">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3978">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3979">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3980">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3981">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3982">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3983">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3984">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3985">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3986">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3987">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3988">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3989">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3990">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3991">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3992">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3993">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3994">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3995">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3996">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3997">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3998">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="3999">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4000">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4001">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4002">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4003">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4004">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4005">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4006">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4007">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4008">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4009">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4010">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4011">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4012">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4013">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4014">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4015">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4016">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4017">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4018">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4019">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4020">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4021">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4022">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4023">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4024">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4025">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4026">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4027">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4028">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4029">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4030">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4031">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4032">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4033">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4034">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4035">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4036">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4037">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4038">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4039">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4040">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4041">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4042">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4043">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4044">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4045">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4046">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4047">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4048">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4049">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4050">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4051">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4052">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4053">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4054">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4055">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4056">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4057">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4058">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4059">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4060">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4061">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4062">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4063">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4064">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4065">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4066">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4067">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4068">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4069">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4070">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4071">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4072">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4073">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4074">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4075">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4076">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4077">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4078">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4079">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4080">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4081">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4082">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4083">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4084">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4085">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4086">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4087">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4088">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4089">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4090">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4091">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4092">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4093">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4094">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4095">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4096">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4097">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4098">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4099">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4100">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4101">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4102">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4103">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4104">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4105">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+			<Items Frame="4106">
+				<Items xsi:type="BoolAttribute" Name="SacklineSitAlongFootGroundStretched_Left" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

@@ -1,0 +1,2946 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-07-11</Date>
+			<Time>08:51:37.1142464+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>SlacklineSwitchStandingLegNearFootLeft.xef</Clip>
+			<StartFrame>405</StartFrame>
+			<EndFrame>1887</EndFrame>
+			<ID>8bb89e31-195e-40ef-93db-fd619426c7b7</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>614</CurrentFrameStart>
+			<CurrentFrameEnd>615</CurrentFrameEnd>
+			<AttributeInterpolations>
+				<Items>
+					<Description Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Type="FLOAT" />
+					<Start>657</Start>
+					<End>1725</End>
+					<Method>Bezier</Method>
+				</Items>
+			</AttributeInterpolations>
+			<AttributeKeys>
+				<Items Frame="657">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="673">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="685">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5114592" />
+				</Items>
+				<Items Frame="720">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6803786" />
+				</Items>
+				<Items Frame="738">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="789">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="939">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="999">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.179627657" />
+				</Items>
+				<Items Frame="1008">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.481126159" />
+				</Items>
+				<Items Frame="1035">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6726998" />
+				</Items>
+				<Items Frame="1045">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="1083">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="1123">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="1260">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="1319">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="1334">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.463790327" />
+				</Items>
+				<Items Frame="1367">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.643203735" />
+				</Items>
+				<Items Frame="1381">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="1450">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="1570">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="1614">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="1622">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.433277279" />
+				</Items>
+				<Items Frame="1647">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.517932653" />
+				</Items>
+				<Items Frame="1661">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="1724">
+					<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				</Items>
+			</AttributeKeys>
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="626">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="627">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="628">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="629">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="630">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="631">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="632">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="633">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="634">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="635">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="636">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="637">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="638">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="639">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="640">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="641">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="642">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="643">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="644">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="645">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="646">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="647">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="648">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="649">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="650">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="651">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="652">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="653">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="654">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="655">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="656">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="657">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="658">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.009097523" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="659">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0179809872" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="660">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.02643633" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="661">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0342495" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="662">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0412064269" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="663">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.04709306" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="664">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0516953357" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="665">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0547991954" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="666">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0561905839" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="667">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0556554347" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="668">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0529796928" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="669">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0479493" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="670">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.04035019" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="671">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.02996831" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="672">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0165896" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="673">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="674">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0243064649" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="675">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0592347123" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="676">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.102597214" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="677">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.152206451" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="678">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.205874875" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="679">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.261414975" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="680">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.3166392" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="681">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.3693601" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="682">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.417390049" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="683">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.458541542" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="684">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.4906271" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="685">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5114592" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="686">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.525269866" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="687">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5377956" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="688">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.549105048" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="689">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.559267044" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="690">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5683504" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="691">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.576423764" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="692">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.583556" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="693">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5898159" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="694">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.595272243" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="695">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5999937" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="696">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.604049146" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="697">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6075073" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="698">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.610437" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="699">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.612906933" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="700">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.614985943" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="701">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.61674273" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="702">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6182462" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="703">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.61956495" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="704">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6207679" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="705">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6219238" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="706">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.623101354" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="707">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6243694" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="708">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6257966" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="709">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.627451956" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="710">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.629404" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="711">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6317217" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="712">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6344736" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="713">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.637728751" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="714">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6415557" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="715">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6460234" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="716">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6512005" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="717">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.657155752" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="718">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.663958" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="719">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.67167604" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="720">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6803786" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="721">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6912074" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="722">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.704990864" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="723">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.721327841" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="724">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.7398171" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="725">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.7600575" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="726">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.7816478" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="727">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.80418694" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="728">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.827273667" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="729">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.8505068" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="730">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.8734852" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="731">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.8958077" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="732">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.917073" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="733">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.9368801" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="734">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.954827666" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="735">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.970514655" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="736">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.9835398" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="737">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.993502" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="738">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="739">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.004548" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="740">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00892687" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="741">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01313615" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="742">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01717472" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="743">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02104187" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="744">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.024737" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="745">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.028259" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="746">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03160739" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="747">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03478122" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="748">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03777981" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="749">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04060221" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="750">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04324758" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="751">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04571545" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="752">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04800475" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="753">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05011475" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="754">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05204463" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="755">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05379367" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="756">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05536115" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="757">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05674613" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="758">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05794787" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="759">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05896556" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="760">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05979848" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="761">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06044567" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="762">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06090653" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="763">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06118023" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="764">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.061266" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="765">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06116283" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="766">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06087029" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="767">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06038725" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="768">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05971313" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="769">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05884707" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="770">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05778825" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="771">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05653584" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="772">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05508924" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="773">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05344748" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="774">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05160987" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="775">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04957557" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="776">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04734373" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="777">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04491365" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="778">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04228449" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="779">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03945553" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="780">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.036426" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="781">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0331949" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="782">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02976155" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="783">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02612531" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="784">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02228522" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="785">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01824057" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="786">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0139904" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="787">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00953424" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="788">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.004871" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="789">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="790">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="791">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="792">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="793">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="931">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="932">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="933">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="934">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="935">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="936">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="937">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="938">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="939">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="940">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.003743653" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="941">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0071647875" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="942">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0102682728" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="943">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0130589781" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="944">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0155417705" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="945">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.01772152" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="946">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0196030959" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="947">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.021191366" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="948">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0224912" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="949">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0235074665" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="950">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.024245033" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="951">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.02470877" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="952">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0249035452" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="953">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0248342287" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="954">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0245056879" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="955">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0239227917" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="956">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.023090411" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="957">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.02201341" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="958">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0206966624" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="959">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0191450343" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="960">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0173633955" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="961">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0153566152" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="962">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0131295612" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="963">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0106871016" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="964">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.008034107" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="965">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.00517544569" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="966">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.00211598584" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="967">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.00113940332" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="968">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.004585853" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="969">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.008218494" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="970">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0120324586" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="971">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0160228778" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="972">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.020184882" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="973">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0245136023" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="974">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.02900417" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="975">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.033651717" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="976">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0384513736" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="977">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0433982722" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="978">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0484875441" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="979">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.05371432" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="980">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.05907373" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="981">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0645609051" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="982">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.07017098" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="983">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.07589908" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="984">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.08174034" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="985">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0876899" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="986">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.09374287" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="987">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0998944" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="988">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.106139615" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="989">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.112473644" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="990">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.118891619" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="991">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.125388667" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="992">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.13195993" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="993">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.138600543" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="994">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.145305619" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="995">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.152070284" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="996">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.1588897" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="997">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.165758982" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="998">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.172673255" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="999">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.179627657" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1000">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.19412379" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1001">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.22137855" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1002">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.257960081" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1003">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.300436527" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1004">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.345375955" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1005">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.3893465" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1006">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.4289163" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1007">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.460653484" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1008">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.481126159" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1009">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.4940956" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1010">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5056852" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1011">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5160064" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1012">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5251705" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1013">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.533288836" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1014">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5404728" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1015">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.546833754" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1016">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.552483" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1017">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.557531953" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1018">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.562091947" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1019">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5662743" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1020">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5701903" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1021">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5739515" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1022">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5776691" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1023">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5814545" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1024">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.585419059" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1025">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5896741" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1026">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.594330966" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1027">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5995011" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1028">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6052958" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1029">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.61182636" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1030">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6192042" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1031">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.627540648" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1032">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6369471" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1033">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.647534847" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1034">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6594153" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1035">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6726998" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1036">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.692609668" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1037">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.722507238" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1038">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.759715557" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1039">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.8015575" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1040">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.845356" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1041">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.888434" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1042">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.9281145" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1043">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.961720347" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1044">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.986574531" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1045">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1046">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0064646" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1047">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01223981" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1048">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01735377" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1049">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02183509" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1050">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.025712" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1051">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0290128" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1052">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03176582" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1053">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03399932" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1054">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03574181" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1055">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03702152" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1056">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03786671" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1057">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03830588" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1058">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03836727" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1059">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03807926" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1060">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0374701" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1061">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03656816" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1062">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03540182" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1063">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03399932" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1064">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.032389" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1065">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03059936" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1066">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02865863" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1067">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.026595" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1068">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02443707" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1069">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02221286" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1070">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.019951" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1071">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01767969" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1072">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01542723" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1073">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.013222" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1074">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01109231" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1075">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00906646" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1076">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.007173" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1077">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00543988" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1078">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00389576" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1079">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00256884" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1080">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00148749" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1081">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00068" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1082">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00017476" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1083">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1084">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00013769" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1085">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00053668" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1086">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00117588" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1087">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.002034" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1088">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00308967" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1089">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.004322" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1090">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00570977" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1091">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00723159" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1092">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00886655" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1093">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01059318" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1094">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01239049" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1095">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01423728" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1096">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01611233" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1097">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0179944" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1098">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01986229" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1099">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0216949" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1100">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.023471" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1101">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02516949" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1102">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.026769" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1103">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02824855" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1104">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02958691" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1105">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03076267" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1106">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.031755" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1107">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03254235" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1108">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03310382" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1109">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.033418" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1110">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.033464" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1111">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03322029" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1112">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.032666" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1113">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03177965" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1114">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03054023" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1115">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02892661" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1116">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02691734" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1117">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02449155" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1118">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02162778" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1119">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01830506" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1120">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01450217" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1121">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01019776" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1122">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00537074" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1123">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1124">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1125">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1126">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1127">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1246">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1247">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1248">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1249">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1250">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1251">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1252">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1253">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1254">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1255">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1256">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1257">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1258">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1259">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1260">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="1261">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.005034983" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1262">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.009934512" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1263">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0146965785" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1264">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0193191729" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1265">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0238002855" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1266">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0281379111" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1267">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0323300362" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1268">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0363746546" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1269">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0402697623" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1270">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.04401334" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1271">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0476033874" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1272">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0510378927" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1273">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.05431485" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1274">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0574322455" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1275">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0603880771" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1276">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06318033" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1277">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06580699" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1278">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06826607" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1279">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07055554" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1280">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0726733953" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1281">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07461764" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1282">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07638624" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1283">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07797722" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1284">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.079388544" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1285">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.08061822" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1286">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.08166423" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1287">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.08252456" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1288">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.08319721" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1289">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0836801752" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1290">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.08397144" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1291">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.084069" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1292">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0839708447" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1293">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.08367496" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1294">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.08317934" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1295">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.08248198" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1296">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.08158088" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1297">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0804740041" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1298">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0791593641" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1299">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07763495" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1300">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07589875" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1301">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0739487559" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1302">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.071782954" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1303">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06939934" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1304">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0667959154" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1305">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06397065" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1306">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06092155" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1307">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0576466024" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1308">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0541438" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1309">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.050411135" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1310">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0464465953" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1311">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.04224817" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1312">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.03781386" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1313">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0331416465" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1314">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0282295272" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1315">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0230754912" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1316">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0176775288" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1317">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0120336311" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1318">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.00614179159" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1319">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1320">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0105348835" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1321">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0288549513" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1322">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0538356341" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1323">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0843523741" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1324">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.1192806" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1325">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.157495752" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1326">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.19787325" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1327">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.239288554" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1328">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.280617058" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1329">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.320734262" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1330">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.358515531" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1331">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.392836362" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1332">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.422572136" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1333">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.446598321" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1334">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.463790327" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1335">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.4765396" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1336">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.48803848" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1337">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.498363733" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1338">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.507592142" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1339">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5158004" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1340">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.523065448" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1341">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.529464" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1342">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.535072744" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1343">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.53996855" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1344">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5442282" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1345">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.547928452" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1346">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.55114603" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1347">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5539578" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1348">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5564405" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1349">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5586709" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1350">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.560725749" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1351">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5626819" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1352">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.564616144" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1353">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.566605151" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1354">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.568725765" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1355">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.571054757" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1356">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.573668957" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1357">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.576645" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1358">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5800599" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1359">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.583990157" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1360">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5885127" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1361">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.593704343" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1362">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5996418" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1363">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.606401861" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1364">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6140613" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1365">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.622696936" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1366">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6323855" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1367">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.643203735" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1368">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.657956839" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1369">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.678679049" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1370">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.704290867" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1371">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.7337128" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1372">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.7658653" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1373">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.799668968" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1374">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.834044337" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1375">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.867911756" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1376">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.9001919" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1377">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.92980516" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1378">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.9556721" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1379">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.97671324" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1380">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.991849" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1381">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1382">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00425065" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1383">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00840414" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1384">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0124594" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1385">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01641488" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1386">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02026975" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1387">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02402234" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1388">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02767169" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1389">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03121638" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1390">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03465533" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1391">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03798711" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1392">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04121053" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1393">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0443244" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1394">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0473274" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1395">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05021822" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1396">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0529958" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1397">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05565882" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1398">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05820584" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1399">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06063592" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1400">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06294751" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1401">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06513965" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1402">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06721079" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1403">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06916" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1404">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07098567" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1405">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07268691" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1406">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07426214" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1407">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07571042" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1408">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07703018" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1409">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07822049" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1410">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0792799" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1411">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08020711" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1412">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.081001" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1413">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08166039" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1414">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08218384" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1415">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08257031" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1416">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08281827" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1417">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08292663" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1418">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08289421" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1419">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08271968" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1420">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08240175" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1421">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08193922" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1422">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08133078" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1423">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.08057535" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1424">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0796715" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1425">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.078618" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1426">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07741368" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1427">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0760572" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1428">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07454741" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1429">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.072883" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1430">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07106268" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1431">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06908536" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1432">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06694961" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1433">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06465423" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1434">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06219792" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1435">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05957961" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1436">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05679786" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1437">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05385149" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1438">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05073929" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1439">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04746" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1440">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04401231" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1441">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.040395" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1442">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03660679" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1443">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03264654" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1444">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02851284" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1445">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02420449" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1446">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01972032" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1447">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01505911" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1448">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01021945" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1449">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00520015" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1450">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="1451">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1452">
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1571">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.00600861432" />
+			</Items>
+			<Items Frame="1572">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0118347183" />
+			</Items>
+			<Items Frame="1573">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0174713861" />
+			</Items>
+			<Items Frame="1574">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.02291169" />
+			</Items>
+			<Items Frame="1575">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0281487089" />
+			</Items>
+			<Items Frame="1576">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0331755131" />
+			</Items>
+			<Items Frame="1577">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.03798518" />
+			</Items>
+			<Items Frame="1578">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.04257078" />
+			</Items>
+			<Items Frame="1579">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.04692539" />
+			</Items>
+			<Items Frame="1580">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0510420837" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1581">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0549139343" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1582">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.05853402" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1583">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06189541" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1584">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06499118" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1585">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06781441" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1586">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0703581646" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1587">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07261553" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1588">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07457957" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1589">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0762433559" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1590">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07759998" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1591">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.078642495" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1592">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07936399" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1593">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.079757534" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1594">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0798162" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1595">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07953307" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1596">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07890121" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1597">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0779136941" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1598">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0765636" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1599">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.074844" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1600">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0727479756" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1601">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.07026859" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1602">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06739892" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1603">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.06413205" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1604">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0604610443" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1605">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.05637898" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1606">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.05187893" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1607">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.04695397" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1608">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0415971726" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1609">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.03580161" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1610">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0295603685" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1611">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.02286651" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1612">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.0157131124" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1613">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="-0.008093252" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1614">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1615">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0232801326" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1616">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.0711877644" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1617">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.135820508" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1618">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.209275961" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1619">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.283651769" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1620">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.351045519" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1621">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.4035548" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1622">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.433277279" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1623">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.447579235" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1624">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.459245324" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1625">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.468500763" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1626">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.475570619" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1627">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.480680138" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1628">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.484054416" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1629">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.485918641" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1630">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.486497939" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1631">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.4860175" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1632">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.484702468" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1633">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.482778" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1634">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.480469257" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1635">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.4780014" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1636">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.475599557" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1637">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.473488927" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1638">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.471894622" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1639">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.471041858" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1640">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.471155733" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1641">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.472461432" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1642">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.4751841" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1643">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.479548931" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1644">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.485781" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1645">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.494105577" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1646">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.504747748" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1647">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.517932653" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1648">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5370742" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1649">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.5644551" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1650">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.598603547" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1651">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.638048" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1652">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.6813167" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1653">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.72693795" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1654">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.7734401" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1655">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.819351554" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1656">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.8632005" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1657">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.903515339" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1658">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.9388244" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1659">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.967656" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1660">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="0.9885384" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1661">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1662">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00611234" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1663">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0119313" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1664">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01746154" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1665">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02270794" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1666">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02767515" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1667">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03236783" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1668">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03679073" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1669">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04094875" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1670">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04484642" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1671">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04848862" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1672">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05188" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1673">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05502522" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1674">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05792928" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1675">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06059659" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1676">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.063032" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1677">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06524038" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1678">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06722629" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1679">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06899452" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1680">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07054985" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1681">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07189691" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1682">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07304049" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1683">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07398534" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1684">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07473624" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1685">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07529771" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1686">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07567477" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1687">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.075872" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1688">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.075894" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1689">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0757457" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1690">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07543182" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1691">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.074957" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1692">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.074326" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1693">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07354367" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1694">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07261467" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1695">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07154357" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1696">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.07033527" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1697">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06899452" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1698">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.067526" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1699">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06593442" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1700">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06422448" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1701">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.062401" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1702">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.06046879" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1703">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05843246" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1704">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05629659" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1705">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05406618" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1706">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.05174589" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1707">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04934037" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1708">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.0468545" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1709">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04429281" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1710">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.04166019" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1711">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03896129" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1712">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03620088" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1713">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03338361" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1714">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.03051436" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1715">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02759778" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1716">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02463865" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1717">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.02164161" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1718">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01861143" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1719">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.015553" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1720">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.01247072" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1721">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00936961" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1722">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00625432" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1723">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1.00312948" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+			<Items Frame="1724">
+				<Items xsi:type="FloatAttribute" Name="SlacklineSwichStandingLegNearFootFrontProgress_Left" Value="1" />
+				<Items xsi:type="BoolAttribute" Name="SlacklineSwichStandingLegNearFootFront_Left" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

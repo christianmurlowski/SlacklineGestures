@@ -1,0 +1,1909 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-07-11</Date>
+			<Time>08:45:39.6729620+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>SlacklineBobBothFeetRight.xef</Clip>
+			<StartFrame>8584</StartFrame>
+			<EndFrame>10144</EndFrame>
+			<ID>e14ffa13-f707-481c-a0e8-d310c613f654</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>8915</CurrentFrameStart>
+			<CurrentFrameEnd>8916</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="8872">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8873">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8874">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8875">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8876">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8877">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8878">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8879">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8880">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8881">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8882">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8883">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8884">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8885">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8886">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8887">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8888">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8889">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8890">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8891">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8892">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8893">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8894">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8895">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8896">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8897">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8898">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8899">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8900">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8901">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8902">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8903">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8904">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8905">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8906">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8907">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8908">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8909">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8910">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8911">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8912">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8913">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8914">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8915">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8916">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8917">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8918">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8919">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8920">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8921">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8922">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8923">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8924">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8925">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8926">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8927">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8928">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8929">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8930">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8931">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8932">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8933">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8934">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8935">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8936">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8937">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8938">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8939">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8940">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8941">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8942">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8943">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8944">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8945">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8946">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8947">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8948">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8949">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8950">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8951">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8952">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8953">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8954">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8955">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8956">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8957">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8958">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8959">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8960">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8961">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8962">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8963">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8964">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8965">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8966">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8967">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8968">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8969">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8970">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8971">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8972">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8973">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8974">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8975">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8976">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8977">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8978">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8979">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8980">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8981">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8982">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8983">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8984">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8985">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8986">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8987">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8988">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8989">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8990">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8991">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8992">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8993">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8994">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8995">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8996">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8997">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8998">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="8999">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9000">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9001">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9002">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9003">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9004">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9005">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9006">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9007">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9008">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9009">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9010">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9011">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9012">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9013">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9014">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9015">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9016">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9017">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9018">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9019">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9020">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9021">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9022">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9023">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9024">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9025">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9026">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9027">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9028">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9029">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9030">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9031">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9032">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9033">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9034">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9035">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9036">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9037">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9038">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9039">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9040">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9041">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9042">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9043">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9044">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9045">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9046">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9047">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9048">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9049">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9050">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9051">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9052">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9053">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9054">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9055">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9056">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9057">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9058">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9059">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9060">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9061">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9062">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9063">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9064">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9065">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9066">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9067">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9068">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9069">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9070">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9071">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9072">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9073">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9074">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9075">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9076">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9077">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9078">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9079">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9080">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9081">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9082">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9083">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9084">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9085">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9086">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9087">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9088">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9089">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9090">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9212">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9213">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9214">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9215">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9216">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9217">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9218">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9219">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9220">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9221">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9222">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9223">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9224">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9225">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9226">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9227">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9228">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9229">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9230">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9231">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9232">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9233">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9234">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9235">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9236">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9237">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9238">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9239">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9240">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9241">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9242">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9243">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9244">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9245">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9246">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9247">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9248">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9249">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9250">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9251">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9252">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9253">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9254">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9255">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9256">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9257">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9258">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9259">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9260">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9261">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9262">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9263">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9264">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9265">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9266">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9267">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9268">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9269">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9270">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9271">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9272">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9273">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9274">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9275">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9276">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9277">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9278">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9279">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9280">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9281">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9282">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9283">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9284">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9285">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9286">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9287">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9288">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9289">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9290">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9291">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9292">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9293">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9294">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9295">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9296">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9297">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9298">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9299">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9300">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9301">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9302">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9303">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9304">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9305">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9306">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9307">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9308">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9309">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9310">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9311">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9312">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9313">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9314">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9315">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9316">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9317">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9318">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9319">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9320">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9321">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9322">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9323">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9324">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9325">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9326">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9327">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9328">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9329">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9330">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9331">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9332">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9333">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9334">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9335">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9336">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9478">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9479">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9480">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9481">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9482">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9483">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9484">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9485">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9486">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9487">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9488">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9489">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9490">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9491">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9492">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9493">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9494">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9495">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9496">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9497">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9498">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9499">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9500">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9501">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9502">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9503">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9504">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9505">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9506">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9507">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9508">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9509">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9510">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9511">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9512">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9513">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9514">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9515">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9516">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9517">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9518">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9519">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9520">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9521">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9522">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9523">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9524">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9525">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9526">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9527">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9528">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9529">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9530">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9531">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9532">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9533">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9534">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9535">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9536">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9537">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9538">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9539">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9540">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9541">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9542">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9543">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9544">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9545">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9546">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9547">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9548">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9549">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9550">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9551">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9552">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9553">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9554">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9555">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9556">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9557">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9558">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9559">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9560">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9561">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9562">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9563">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9564">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9565">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9566">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9567">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9568">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9569">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9570">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9571">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9572">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9573">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9574">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9575">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9576">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9577">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9578">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9579">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9580">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9581">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9582">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9583">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9584">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9585">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9586">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9587">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9588">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9589">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9590">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9591">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9592">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9593">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9594">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9595">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9596">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9597">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9598">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9599">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9600">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9601">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9602">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9603">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9604">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9605">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9606">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9607">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9608">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9609">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9610">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9611">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9612">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9613">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9614">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9615">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9616">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9617">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9618">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9619">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9620">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9621">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9622">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9623">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9624">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9625">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9626">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9627">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9628">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9629">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9630">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9631">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9632">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9633">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9634">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9635">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9636">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9637">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9638">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9639">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9640">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9641">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9642">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9643">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9644">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9645">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9646">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9647">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9648">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9649">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9650">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9651">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9652">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9653">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9654">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9655">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9656">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9657">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9658">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9897">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9898">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9899">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9900">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9901">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9902">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9903">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9904">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9905">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9906">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9907">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9908">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9909">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9910">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9911">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9912">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9913">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9914">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9915">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9916">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9917">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9918">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9919">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9920">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9921">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9922">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9923">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9924">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9925">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9926">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9927">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9928">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9929">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9930">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9931">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9932">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9933">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9934">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9935">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9936">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9937">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9938">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9939">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9940">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9941">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9942">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9943">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9944">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9945">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9946">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9947">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9948">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9949">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9950">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9951">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9952">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9953">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9954">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9955">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9956">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9957">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9958">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9959">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9960">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9961">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9962">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9963">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9964">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9965">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9966">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9967">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9968">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9969">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9970">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9971">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9972">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9973">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9974">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9975">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9976">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9977">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9978">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9979">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9980">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9981">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9982">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9983">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9984">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9985">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9986">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9987">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9988">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9989">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9990">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9991">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9992">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9993">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9994">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9995">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9996">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="9997">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobBothFeet_Right" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

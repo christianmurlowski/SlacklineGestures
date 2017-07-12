@@ -1,0 +1,2262 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-05-29</Date>
+			<Time>12:08:14.4971424+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>OneLegCircleOtherTEST.xef</Clip>
+			<StartFrame>55274</StartFrame>
+			<EndFrame>58582</EndFrame>
+			<ID>6db5a13f-74d9-4f9e-a62d-4f9535514ead</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>55875</CurrentFrameStart>
+			<CurrentFrameEnd>55876</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged>
+			<Items Name="OneLegCircleOther_Right" Type="BOOL" />
+		</AutoTagged>
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="55543">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55544">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55545">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55546">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55547">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55548">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55549">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55550">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55551">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55552">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55553">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55554">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55555">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55556">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55557">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55558">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55559">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55560">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55561">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55971">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55972">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55973">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55974">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55975">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55976">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55977">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55978">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55979">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55980">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55981">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55982">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55983">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55984">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55985">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55986">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55987">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55988">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55989">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55990">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55991">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55992">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55993">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55994">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55995">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55996">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55997">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55998">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="55999">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56000">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56001">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56002">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56003">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56004">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56005">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56006">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56007">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56008">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56021">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56022">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56023">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56024">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56025">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56026">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56027">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56028">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56029">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56030">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56031">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56032">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56033">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56034">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56035">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56036">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56037">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56038">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56039">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56040">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56041">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56042">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56043">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56044">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56045">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56046">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56047">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56048">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56049">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56050">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56051">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56052">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56053">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56054">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56055">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56056">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56057">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56058">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56059">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56060">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56061">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56062">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56063">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56064">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="56195">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56196">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56197">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56198">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56199">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56200">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56201">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56202">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56203">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56204">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56205">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56206">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56207">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56208">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56209">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56210">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56211">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56212">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56213">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56214">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56215">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56216">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56217">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56218">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56219">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56220">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56221">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56222">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56223">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56224">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56225">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56226">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56227">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56228">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56229">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56230">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56231">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56232">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56233">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56234">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56235">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56236">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56237">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56238">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56239">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56240">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56241">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56242">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56243">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56244">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56245">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56249">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56250">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56251">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56252">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56253">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56254">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56255">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56256">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56257">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56258">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56259">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56260">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56261">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56262">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56263">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56264">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56265">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56266">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56271">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56272">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56273">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56274">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56275">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56276">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56277">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56278">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56279">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56280">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56281">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56282">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56283">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56284">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56285">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56286">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56287">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56288">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56289">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56304">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56305">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56306">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56307">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56308">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56309">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56310">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56311">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56312">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56313">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56314">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56315">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56316">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56317">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56318">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56319">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56320">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56321">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56322">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56323">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56324">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56325">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56326">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56327">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56328">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56329">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56330">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56331">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56332">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56333">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56334">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56335">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56336">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56337">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56338">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56339">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56340">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56341">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56342">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56343">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56344">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56345">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56346">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56347">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56348">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56349">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56350">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56351">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56358">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56359">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56360">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56361">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56362">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56363">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56364">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56365">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56366">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56367">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56368">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56369">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56370">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56371">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56372">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56373">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56374">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56375">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56376">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56377">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56378">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56379">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56380">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56381">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56382">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56383">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56384">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56385">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56386">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56387">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56388">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56389">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56390">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56416">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56417">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56418">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56419">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56420">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56421">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56422">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56423">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56424">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56425">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56426">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56427">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56428">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56429">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56430">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56431">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56432">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56433">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56434">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56435">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56436">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56437">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56438">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56439">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56440">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56441">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56442">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56443">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56444">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56445">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56446">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56447">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56448">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56449">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56450">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56451">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56452">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56453">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56454">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56455">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56456">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56457">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56458">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56459">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56577">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56578">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56579">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56580">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56581">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56582">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56583">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56584">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56585">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56586">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56587">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56588">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56589">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56590">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56591">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56592">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56593">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56594">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56595">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56596">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56597">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56598">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56599">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56600">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56601">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56602">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56603">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56604">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56605">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56606">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56607">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56608">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56609">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56610">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56611">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56612">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56613">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56614">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56615">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56616">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56617">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56618">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56619">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56620">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56621">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56622">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56623">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56624">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56625">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56626">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56627">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56628">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56629">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56630">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56631">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56632">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56633">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56634">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56635">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56636">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56637">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56638">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56639">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56640">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56641">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56642">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56643">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56644">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56645">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56646">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56647">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56648">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56649">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56650">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56651">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56652">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56653">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56654">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56655">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56656">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56657">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56658">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56659">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56660">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56686">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56687">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56688">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56689">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56690">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56691">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56692">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56693">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56694">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56695">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56696">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56697">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56698">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56699">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56700">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56701">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56702">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56703">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56704">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56705">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56706">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56707">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56708">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56709">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56710">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56711">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56712">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56713">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56714">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56715">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56716">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56717">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56718">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56719">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56720">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56721">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56722">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56723">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56724">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56725">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56749">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56750">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56751">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56752">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56753">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56754">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56755">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56756">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56757">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56758">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56759">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56760">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56761">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56762">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56763">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56764">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56765">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56766">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56767">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56768">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56769">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56770">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56771">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56772">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56773">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56774">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56775">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56776">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56777">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56778">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56779">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56780">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56781">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56782">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56783">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56784">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56785">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56786">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56787">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56793">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56794">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56795">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56796">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56797">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56798">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56799">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56800">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56801">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56802">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56803">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56804">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56805">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56806">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56807">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56808">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56809">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56810">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56811">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56812">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56813">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56814">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56815">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56816">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56817">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56818">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56819">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56820">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56821">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56822">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56823">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56824">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56825">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56826">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56827">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56828">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56829">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56830">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56831">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56832">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56833">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56834">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56835">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56836">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56837">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56838">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56839">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56840">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56841">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56842">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56843">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56844">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56845">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56846">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56847">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56848">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56849">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56850">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56851">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56852">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56853">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56854">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56855">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56856">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="56857">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57462">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57463">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57464">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57465">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57466">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57467">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57468">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57469">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57472">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57473">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57474">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57475">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57476">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57523">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57524">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57525">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57526">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57629">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57630">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57631">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57632">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57633">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57634">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57635">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57636">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57637">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57638">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57639">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57640">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57668">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57669">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57670">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57671">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57672">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57673">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57674">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57675">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57676">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57677">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57678">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57679">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57680">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57681">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57682">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57683">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57684">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57685">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57686">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57687">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57688">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57720">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57721">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57722">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57723">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57724">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57725">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57726">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57727">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57728">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57729">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57730">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57731">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57732">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57733">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57734">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57735">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57736">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57737">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57738">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="57878">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57879">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57880">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57881">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57882">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57883">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57884">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57885">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57886">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57887">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="57888">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Right" Value="true" />
+			</Items>
+			<Items Frame="58143">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58144">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58145">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58146">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58147">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58148">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58149">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58150">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58151">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58152">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58153">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58154">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58155">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58156">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58157">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58158">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58179">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58180">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58181">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58182">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58183">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58184">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58185">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58186">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58187">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58188">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58189">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58190">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58191">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58192">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58193">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58194">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58222">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58223">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58224">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58225">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58226">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58227">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58228">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58229">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58230">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58231">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58232">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58233">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58234">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58235">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58236">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58237">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58238">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58331">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58332">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58333">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58334">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58335">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58336">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58337">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58338">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58339">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58340">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58341">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58342">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58343">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58344">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58384">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58385">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58386">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58387">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58388">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58389">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58390">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58391">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58392">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58393">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58394">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58401">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58402">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58403">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58404">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58405">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58406">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58407">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58408">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58425">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58426">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58427">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58428">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58429">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58430">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58431">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58432">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58433">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58434">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58435">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58436">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58437">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58438">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58439">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58440">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58441">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58442">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58443">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58444">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58445">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58446">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58447">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58448">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58449">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58450">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58451">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58452">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58453">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58454">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58455">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58456">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58457">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58458">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58459">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58460">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58461">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58462">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+			<Items Frame="58463">
+				<Items xsi:type="BoolAttribute" Name="OneLegCircleOther_Left" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

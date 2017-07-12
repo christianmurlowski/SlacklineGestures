@@ -1,0 +1,2028 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-07-11</Date>
+			<Time>08:38:38.4951878+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>SlacklineBobOneFootLeft.xef</Clip>
+			<StartFrame>42861</StartFrame>
+			<EndFrame>44088</EndFrame>
+			<ID>f2d0cd64-6748-4c90-b4dc-8e050c422b47</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>43118</CurrentFrameStart>
+			<CurrentFrameEnd>43119</CurrentFrameEnd>
+			<AttributeInterpolations>
+				<Items>
+					<Description Name="SlacklineBobOneFootProgress_Left" Type="FLOAT" />
+					<Start>43107</Start>
+					<End>43933</End>
+					<Method>Bezier</Method>
+				</Items>
+			</AttributeInterpolations>
+			<AttributeKeys>
+				<Items Frame="43107">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43117">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43127">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43139">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43148">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43159">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43168">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43178">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43189">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43198">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43208">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43218">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43228">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43238">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43246">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43256">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43262">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43403">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43413">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43424">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43433">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43444">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43455">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43465">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43475">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43485">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43495">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43504">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43513">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43523">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43532">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43543">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43551">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43568">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43816">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43826">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43835">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43846">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43856">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43867">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43875">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43885">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43895">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43905">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43913">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+				<Items Frame="43923">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+				</Items>
+				<Items Frame="43932">
+					<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+				</Items>
+			</AttributeKeys>
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="43095">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43096">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43097">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43098">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43099">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43100">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43101">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43102">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43103">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43104">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43105">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43106">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43107">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43108">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.1495" />
+			</Items>
+			<Items Frame="43109">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.296" />
+			</Items>
+			<Items Frame="43110">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.4365" />
+			</Items>
+			<Items Frame="43111">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.568" />
+			</Items>
+			<Items Frame="43112">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6875" />
+			</Items>
+			<Items Frame="43113">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.792" />
+			</Items>
+			<Items Frame="43114">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8785" />
+			</Items>
+			<Items Frame="43115">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.944" />
+			</Items>
+			<Items Frame="43116">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.9855" />
+			</Items>
+			<Items Frame="43117">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43118">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43119">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43120">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43121">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43122">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43123">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43124">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43125">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43126">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43127">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43128">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.0196759254" />
+			</Items>
+			<Items Frame="43129">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.0740740746" />
+			</Items>
+			<Items Frame="43130">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.15625" />
+			</Items>
+			<Items Frame="43131">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.259259254" />
+			</Items>
+			<Items Frame="43132">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.3761574" />
+			</Items>
+			<Items Frame="43133">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43134">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6238426" />
+			</Items>
+			<Items Frame="43135">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7407407" />
+			</Items>
+			<Items Frame="43136">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.84375" />
+			</Items>
+			<Items Frame="43137">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.9259259" />
+			</Items>
+			<Items Frame="43138">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.9803241" />
+			</Items>
+			<Items Frame="43139">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43140">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.965706468" />
+			</Items>
+			<Items Frame="43141">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.873799741" />
+			</Items>
+			<Items Frame="43142">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7407407" />
+			</Items>
+			<Items Frame="43143">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5829904" />
+			</Items>
+			<Items Frame="43144">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.4170096" />
+			</Items>
+			<Items Frame="43145">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.259259254" />
+			</Items>
+			<Items Frame="43146">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.126200274" />
+			</Items>
+			<Items Frame="43147">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.03429355" />
+			</Items>
+			<Items Frame="43148">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43149">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.023290759" />
+			</Items>
+			<Items Frame="43150">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.08715252" />
+			</Items>
+			<Items Frame="43151">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.1825695" />
+			</Items>
+			<Items Frame="43152">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.300525934" />
+			</Items>
+			<Items Frame="43153">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.432006" />
+			</Items>
+			<Items Frame="43154">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.567994" />
+			</Items>
+			<Items Frame="43155">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6994741" />
+			</Items>
+			<Items Frame="43156">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8174305" />
+			</Items>
+			<Items Frame="43157">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.912847459" />
+			</Items>
+			<Items Frame="43158">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.976709247" />
+			</Items>
+			<Items Frame="43159">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43160">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.965706468" />
+			</Items>
+			<Items Frame="43161">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.873799741" />
+			</Items>
+			<Items Frame="43162">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7407407" />
+			</Items>
+			<Items Frame="43163">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5829904" />
+			</Items>
+			<Items Frame="43164">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.4170096" />
+			</Items>
+			<Items Frame="43165">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.259259254" />
+			</Items>
+			<Items Frame="43166">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.126200274" />
+			</Items>
+			<Items Frame="43167">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.03429355" />
+			</Items>
+			<Items Frame="43168">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43169">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43170">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43171">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43172">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43173">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43174">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43175">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43176">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43177">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43178">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43179">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.976709247" />
+			</Items>
+			<Items Frame="43180">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.912847459" />
+			</Items>
+			<Items Frame="43181">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8174305" />
+			</Items>
+			<Items Frame="43182">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6994741" />
+			</Items>
+			<Items Frame="43183">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.567994" />
+			</Items>
+			<Items Frame="43184">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.432006" />
+			</Items>
+			<Items Frame="43185">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.300525934" />
+			</Items>
+			<Items Frame="43186">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.1825695" />
+			</Items>
+			<Items Frame="43187">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.08715252" />
+			</Items>
+			<Items Frame="43188">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.023290759" />
+			</Items>
+			<Items Frame="43189">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43190">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.03429355" />
+			</Items>
+			<Items Frame="43191">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.126200274" />
+			</Items>
+			<Items Frame="43192">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.259259254" />
+			</Items>
+			<Items Frame="43193">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.4170096" />
+			</Items>
+			<Items Frame="43194">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5829904" />
+			</Items>
+			<Items Frame="43195">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7407407" />
+			</Items>
+			<Items Frame="43196">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.873799741" />
+			</Items>
+			<Items Frame="43197">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.965706468" />
+			</Items>
+			<Items Frame="43198">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43199">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43200">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43201">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43202">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43203">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43204">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43205">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43206">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43207">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43208">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43209">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43210">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43211">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43212">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43213">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43214">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43215">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43216">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43217">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43218">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43219">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43220">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43221">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43222">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43223">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43224">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43225">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43226">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43227">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43228">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43229">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43230">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43231">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43232">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43233">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43234">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43235">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43236">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43237">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43238">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43239">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.95703125" />
+			</Items>
+			<Items Frame="43240">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.84375" />
+			</Items>
+			<Items Frame="43241">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.68359375" />
+			</Items>
+			<Items Frame="43242">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43243">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.31640625" />
+			</Items>
+			<Items Frame="43244">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.15625" />
+			</Items>
+			<Items Frame="43245">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.04296875" />
+			</Items>
+			<Items Frame="43246">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43247">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43248">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43249">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43250">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43251">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43252">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43253">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43254">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43255">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43256">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43257">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.926870763" />
+			</Items>
+			<Items Frame="43258">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.743764162" />
+			</Items>
+			<Items Frame="43259">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.505102038" />
+			</Items>
+			<Items Frame="43260">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43381">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43382">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43383">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43384">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43385">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43386">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43387">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43388">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43389">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43390">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43391">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43392">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43393">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43394">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43395">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43396">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43397">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43398">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43399">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43400">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43401">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43402">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43403">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43404">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.03336424" />
+			</Items>
+			<Items Frame="43405">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.112476818" />
+			</Items>
+			<Items Frame="43406">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.2257351" />
+			</Items>
+			<Items Frame="43407">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.3615364" />
+			</Items>
+			<Items Frame="43408">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.508278131" />
+			</Items>
+			<Items Frame="43409">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6543576" />
+			</Items>
+			<Items Frame="43410">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7881722" />
+			</Items>
+			<Items Frame="43411">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8981192" />
+			</Items>
+			<Items Frame="43412">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972596049" />
+			</Items>
+			<Items Frame="43413">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43414">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.976709247" />
+			</Items>
+			<Items Frame="43415">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.912847459" />
+			</Items>
+			<Items Frame="43416">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8174305" />
+			</Items>
+			<Items Frame="43417">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6994741" />
+			</Items>
+			<Items Frame="43418">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.567994" />
+			</Items>
+			<Items Frame="43419">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.432006" />
+			</Items>
+			<Items Frame="43420">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.300525934" />
+			</Items>
+			<Items Frame="43421">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.1825695" />
+			</Items>
+			<Items Frame="43422">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.08715252" />
+			</Items>
+			<Items Frame="43423">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.023290759" />
+			</Items>
+			<Items Frame="43424">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43425">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.03429355" />
+			</Items>
+			<Items Frame="43426">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.126200274" />
+			</Items>
+			<Items Frame="43427">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.259259254" />
+			</Items>
+			<Items Frame="43428">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.4170096" />
+			</Items>
+			<Items Frame="43429">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5829904" />
+			</Items>
+			<Items Frame="43430">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7407407" />
+			</Items>
+			<Items Frame="43431">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.873799741" />
+			</Items>
+			<Items Frame="43432">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.965706468" />
+			</Items>
+			<Items Frame="43433">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43434">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.976709247" />
+			</Items>
+			<Items Frame="43435">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.912847459" />
+			</Items>
+			<Items Frame="43436">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8174305" />
+			</Items>
+			<Items Frame="43437">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6994741" />
+			</Items>
+			<Items Frame="43438">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.567994" />
+			</Items>
+			<Items Frame="43439">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.432006" />
+			</Items>
+			<Items Frame="43440">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.300525934" />
+			</Items>
+			<Items Frame="43441">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.1825695" />
+			</Items>
+			<Items Frame="43442">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.08715252" />
+			</Items>
+			<Items Frame="43443">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.023290759" />
+			</Items>
+			<Items Frame="43444">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43445">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.023290759" />
+			</Items>
+			<Items Frame="43446">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.08715252" />
+			</Items>
+			<Items Frame="43447">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.1825695" />
+			</Items>
+			<Items Frame="43448">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.300525934" />
+			</Items>
+			<Items Frame="43449">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.432006" />
+			</Items>
+			<Items Frame="43450">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.567994" />
+			</Items>
+			<Items Frame="43451">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6994741" />
+			</Items>
+			<Items Frame="43452">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8174305" />
+			</Items>
+			<Items Frame="43453">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.912847459" />
+			</Items>
+			<Items Frame="43454">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.976709247" />
+			</Items>
+			<Items Frame="43455">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43456">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43457">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43458">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43459">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43460">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43461">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43462">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43463">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43464">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43465">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43466">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43467">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43468">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43469">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43470">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43471">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43472">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43473">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43474">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43475">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43476">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43477">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43478">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43479">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43480">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43481">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43482">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43483">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43484">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43485">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43486">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43487">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43488">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43489">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43490">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43491">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43492">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43493">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43494">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43495">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43496">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.965706468" />
+			</Items>
+			<Items Frame="43497">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.873799741" />
+			</Items>
+			<Items Frame="43498">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7407407" />
+			</Items>
+			<Items Frame="43499">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5829904" />
+			</Items>
+			<Items Frame="43500">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.4170096" />
+			</Items>
+			<Items Frame="43501">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.259259254" />
+			</Items>
+			<Items Frame="43502">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.126200274" />
+			</Items>
+			<Items Frame="43503">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.03429355" />
+			</Items>
+			<Items Frame="43504">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43505">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.03429355" />
+			</Items>
+			<Items Frame="43506">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.126200274" />
+			</Items>
+			<Items Frame="43507">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.259259254" />
+			</Items>
+			<Items Frame="43508">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.4170096" />
+			</Items>
+			<Items Frame="43509">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5829904" />
+			</Items>
+			<Items Frame="43510">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7407407" />
+			</Items>
+			<Items Frame="43511">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.873799741" />
+			</Items>
+			<Items Frame="43512">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.965706468" />
+			</Items>
+			<Items Frame="43513">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43514">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43515">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43516">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43517">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43518">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43519">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43520">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43521">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43522">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43523">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43524">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.03429355" />
+			</Items>
+			<Items Frame="43525">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.126200274" />
+			</Items>
+			<Items Frame="43526">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.259259254" />
+			</Items>
+			<Items Frame="43527">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.4170096" />
+			</Items>
+			<Items Frame="43528">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5829904" />
+			</Items>
+			<Items Frame="43529">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7407407" />
+			</Items>
+			<Items Frame="43530">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.873799741" />
+			</Items>
+			<Items Frame="43531">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.965706468" />
+			</Items>
+			<Items Frame="43532">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43533">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.976709247" />
+			</Items>
+			<Items Frame="43534">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.912847459" />
+			</Items>
+			<Items Frame="43535">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8174305" />
+			</Items>
+			<Items Frame="43536">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6994741" />
+			</Items>
+			<Items Frame="43537">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.567994" />
+			</Items>
+			<Items Frame="43538">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.432006" />
+			</Items>
+			<Items Frame="43539">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.300525934" />
+			</Items>
+			<Items Frame="43540">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.1825695" />
+			</Items>
+			<Items Frame="43541">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.08715252" />
+			</Items>
+			<Items Frame="43542">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.023290759" />
+			</Items>
+			<Items Frame="43543">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43544">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.04296875" />
+			</Items>
+			<Items Frame="43545">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.15625" />
+			</Items>
+			<Items Frame="43546">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.31640625" />
+			</Items>
+			<Items Frame="43547">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43548">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.68359375" />
+			</Items>
+			<Items Frame="43549">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.84375" />
+			</Items>
+			<Items Frame="43550">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.95703125" />
+			</Items>
+			<Items Frame="43551">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43552">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.9902354" />
+			</Items>
+			<Items Frame="43553">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.9625176" />
+			</Items>
+			<Items Frame="43554">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.919210851" />
+			</Items>
+			<Items Frame="43555">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8626793" />
+			</Items>
+			<Items Frame="43556">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7952871" />
+			</Items>
+			<Items Frame="43557">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.71939826" />
+			</Items>
+			<Items Frame="43558">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.637377143" />
+			</Items>
+			<Items Frame="43559">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5515878" />
+			</Items>
+			<Items Frame="43560">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.46439442" />
+			</Items>
+			<Items Frame="43561">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.378161132" />
+			</Items>
+			<Items Frame="43562">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.2952521" />
+			</Items>
+			<Items Frame="43563">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.218031481" />
+			</Items>
+			<Items Frame="43564">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.148863435" />
+			</Items>
+			<Items Frame="43565">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.090112105" />
+			</Items>
+			<Items Frame="43566">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.04414165" />
+			</Items>
+			<Items Frame="43567">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.0133162308" />
+			</Items>
+			<Items Frame="43568">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43569">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+			</Items>
+			<Items Frame="43816">
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43817">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.031139534" />
+			</Items>
+			<Items Frame="43818">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.108961239" />
+			</Items>
+			<Items Frame="43819">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.221697673" />
+			</Items>
+			<Items Frame="43820">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.3575814" />
+			</Items>
+			<Items Frame="43821">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.504844964" />
+			</Items>
+			<Items Frame="43822">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.651720941" />
+			</Items>
+			<Items Frame="43823">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.786441863" />
+			</Items>
+			<Items Frame="43824">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8972403" />
+			</Items>
+			<Items Frame="43825">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.9723488" />
+			</Items>
+			<Items Frame="43826">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43827">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.965706468" />
+			</Items>
+			<Items Frame="43828">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.873799741" />
+			</Items>
+			<Items Frame="43829">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7407407" />
+			</Items>
+			<Items Frame="43830">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5829904" />
+			</Items>
+			<Items Frame="43831">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.4170096" />
+			</Items>
+			<Items Frame="43832">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.259259254" />
+			</Items>
+			<Items Frame="43833">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.126200274" />
+			</Items>
+			<Items Frame="43834">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.03429355" />
+			</Items>
+			<Items Frame="43835">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43836">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.023290759" />
+			</Items>
+			<Items Frame="43837">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.08715252" />
+			</Items>
+			<Items Frame="43838">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.1825695" />
+			</Items>
+			<Items Frame="43839">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.300525934" />
+			</Items>
+			<Items Frame="43840">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.432006" />
+			</Items>
+			<Items Frame="43841">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.567994" />
+			</Items>
+			<Items Frame="43842">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6994741" />
+			</Items>
+			<Items Frame="43843">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8174305" />
+			</Items>
+			<Items Frame="43844">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.912847459" />
+			</Items>
+			<Items Frame="43845">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.976709247" />
+			</Items>
+			<Items Frame="43846">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43847">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43848">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43849">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43850">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43851">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43852">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43853">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43854">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43855">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43856">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43857">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.023290759" />
+			</Items>
+			<Items Frame="43858">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.08715252" />
+			</Items>
+			<Items Frame="43859">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.1825695" />
+			</Items>
+			<Items Frame="43860">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.300525934" />
+			</Items>
+			<Items Frame="43861">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.432006" />
+			</Items>
+			<Items Frame="43862">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.567994" />
+			</Items>
+			<Items Frame="43863">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6994741" />
+			</Items>
+			<Items Frame="43864">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8174305" />
+			</Items>
+			<Items Frame="43865">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.912847459" />
+			</Items>
+			<Items Frame="43866">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.976709247" />
+			</Items>
+			<Items Frame="43867">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43868">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.95703125" />
+			</Items>
+			<Items Frame="43869">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.84375" />
+			</Items>
+			<Items Frame="43870">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.68359375" />
+			</Items>
+			<Items Frame="43871">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43872">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.31640625" />
+			</Items>
+			<Items Frame="43873">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.15625" />
+			</Items>
+			<Items Frame="43874">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.04296875" />
+			</Items>
+			<Items Frame="43875">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43876">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43877">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43878">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43879">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43880">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43881">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43882">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43883">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43884">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43885">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43886">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43887">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43888">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43889">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43890">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43891">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43892">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43893">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43894">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43895">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43896">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43897">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43898">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43899">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43900">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43901">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43902">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43903">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43904">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43905">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43906">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.95703125" />
+			</Items>
+			<Items Frame="43907">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.84375" />
+			</Items>
+			<Items Frame="43908">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.68359375" />
+			</Items>
+			<Items Frame="43909">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43910">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.31640625" />
+			</Items>
+			<Items Frame="43911">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.15625" />
+			</Items>
+			<Items Frame="43912">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.04296875" />
+			</Items>
+			<Items Frame="43913">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+			<Items Frame="43914">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.028" />
+			</Items>
+			<Items Frame="43915">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.104" />
+			</Items>
+			<Items Frame="43916">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.216" />
+			</Items>
+			<Items Frame="43917">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.352" />
+			</Items>
+			<Items Frame="43918">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.5" />
+			</Items>
+			<Items Frame="43919">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.648" />
+			</Items>
+			<Items Frame="43920">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.784" />
+			</Items>
+			<Items Frame="43921">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.896" />
+			</Items>
+			<Items Frame="43922">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.972" />
+			</Items>
+			<Items Frame="43923">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="1" />
+			</Items>
+			<Items Frame="43924">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.982167363" />
+			</Items>
+			<Items Frame="43925">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.9314129" />
+			</Items>
+			<Items Frame="43926">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.8518519" />
+			</Items>
+			<Items Frame="43927">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.7475994" />
+			</Items>
+			<Items Frame="43928">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.6227709" />
+			</Items>
+			<Items Frame="43929">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.4814815" />
+			</Items>
+			<Items Frame="43930">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.327846378" />
+			</Items>
+			<Items Frame="43931">
+				<Items xsi:type="BoolAttribute" Name="SlacklineBobOneFoot_Left" Value="true" />
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0.1659808" />
+			</Items>
+			<Items Frame="43932">
+				<Items xsi:type="FloatAttribute" Name="SlacklineBobOneFootProgress_Left" Value="0" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

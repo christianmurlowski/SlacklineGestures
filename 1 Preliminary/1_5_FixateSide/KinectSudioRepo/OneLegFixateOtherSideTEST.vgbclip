@@ -1,0 +1,2323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-05-29</Date>
+			<Time>10:58:49.9993481+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>OneLegFixateOtherSideTEST.xef</Clip>
+			<StartFrame>28710</StartFrame>
+			<EndFrame>31586</EndFrame>
+			<ID>49f92d24-93c2-40f7-847d-c76d44a94193</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>28902</CurrentFrameStart>
+			<CurrentFrameEnd>28903</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="28914">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28915">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28916">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28917">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28918">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28919">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28920">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28921">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28922">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28923">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28924">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28925">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28926">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28927">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28928">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28929">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28930">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28931">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28932">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28933">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28934">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28935">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28936">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28937">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28938">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28939">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28940">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28941">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28942">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28943">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28944">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28945">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28946">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28947">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28948">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28949">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28950">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28951">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28952">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28953">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28954">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28955">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28956">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28957">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28958">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28959">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28960">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28961">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28962">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28963">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28964">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28965">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28966">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28967">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28968">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28969">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28970">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28971">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28972">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28973">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28974">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28975">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28976">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28977">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28978">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28979">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28980">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28981">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28982">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28983">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28984">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28985">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28986">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28987">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28988">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28989">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28990">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28991">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28992">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28993">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28994">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28995">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28996">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28997">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28998">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="28999">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29000">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29001">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29002">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29003">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29004">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29005">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29006">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29007">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29008">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29009">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29010">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29011">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29012">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29013">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29014">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29015">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29016">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29017">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29018">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29019">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29020">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29021">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29022">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29023">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29024">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29025">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29026">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29027">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29028">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29029">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29030">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29031">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29032">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29033">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29034">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29035">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29036">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29037">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29038">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29039">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29040">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29041">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29042">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29043">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29044">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29045">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29046">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29047">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29048">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29049">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29050">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29051">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29052">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29053">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29054">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29055">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29056">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29057">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29058">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29059">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29060">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29061">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29062">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29063">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29064">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29065">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29066">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29067">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29068">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29069">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29070">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29117">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29118">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29119">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29120">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29121">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29122">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29123">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29124">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29125">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29126">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29127">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29128">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29129">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29130">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29131">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29132">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29133">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29134">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29135">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29136">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29137">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29138">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29139">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29140">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29141">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29142">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29143">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29144">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29145">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29146">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29147">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29148">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29149">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29150">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29151">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29152">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29153">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29154">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29155">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29156">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29157">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29158">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29159">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29160">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29161">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29162">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29163">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29164">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29165">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29166">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29167">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29168">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29169">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29170">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29171">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29172">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29173">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29174">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29175">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29176">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29177">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29178">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29179">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29180">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29181">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29182">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29183">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29184">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29185">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29186">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29187">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29188">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29189">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29190">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29191">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29192">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29193">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29194">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29195">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29196">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29197">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29198">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29199">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29200">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29201">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29202">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29203">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29204">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29205">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29206">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29207">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29208">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29209">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29210">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29211">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29212">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29213">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29214">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29215">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29216">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29217">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29218">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29219">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29220">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29221">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29309">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29310">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29311">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29312">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29313">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29314">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29315">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29316">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29317">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29318">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29319">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29320">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29321">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29322">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29323">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29324">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29325">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29326">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29327">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29328">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29329">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29330">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29331">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29332">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29333">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29334">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29335">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29336">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29337">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29338">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29339">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29340">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29341">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29342">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29343">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29344">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29345">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29346">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29347">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29348">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29349">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29350">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29351">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29352">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29353">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29354">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29355">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29356">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29357">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29358">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29359">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29360">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29361">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29362">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29363">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29364">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29365">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29366">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29367">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29368">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29369">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29370">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29371">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29372">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29373">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29374">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29375">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29376">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29377">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29378">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29379">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29380">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29381">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29382">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29383">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29384">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29385">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29386">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29387">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29388">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29389">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29390">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29391">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29392">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29393">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29394">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29395">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29396">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29397">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29398">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29399">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29400">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29401">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29402">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29403">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29404">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29405">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29406">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29407">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29408">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29409">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29410">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29411">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29412">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29413">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29414">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29415">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29416">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29417">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29418">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29419">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29420">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29421">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="29422">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Right" Value="true" />
+			</Items>
+			<Items Frame="30070">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30071">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30072">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30073">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30074">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30075">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30076">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30077">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30078">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30079">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30080">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30081">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30082">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30083">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30084">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30085">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30086">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30087">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30088">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30089">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30090">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30091">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30092">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30093">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30094">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30095">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30096">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30097">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30098">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30099">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30100">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30101">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30102">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30103">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30104">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30105">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30106">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30107">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30108">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30109">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30110">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30111">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30112">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30113">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30114">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30115">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30116">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30117">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30118">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30119">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30120">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30121">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30122">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30123">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30124">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30125">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30126">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30127">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30128">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30129">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30130">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30131">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30132">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30133">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30134">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30135">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30136">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30137">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30138">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30139">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30140">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30141">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30142">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30143">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30258">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30259">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30260">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30261">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30262">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30263">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30264">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30265">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30266">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30267">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30268">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30269">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30270">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30271">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30272">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30273">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30274">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30275">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30276">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30277">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30278">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30279">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30280">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30281">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30282">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30283">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30284">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30285">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30286">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30287">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30288">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30289">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30290">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30291">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30292">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30293">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30294">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30295">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30296">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30297">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30298">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30299">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30300">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30301">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30302">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30303">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30304">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30305">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30306">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30307">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30308">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30309">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30310">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30311">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30312">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30313">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30314">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30315">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30316">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30317">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30318">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30319">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30320">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30321">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30322">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30323">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30324">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30325">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30326">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30327">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30642">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30643">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30644">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30645">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30646">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30647">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30648">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30649">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30650">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30651">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30652">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30653">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30654">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30655">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30656">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30657">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30658">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30659">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30660">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30661">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30662">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30663">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30664">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30665">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30666">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30667">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30668">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30669">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30670">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30671">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30672">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30673">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30674">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30675">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30676">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30677">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30678">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30679">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30680">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30681">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30682">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30683">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30684">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30685">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30686">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30687">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30688">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30689">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30690">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30691">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30692">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30693">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30694">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30695">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30696">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30697">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30698">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30699">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30700">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30701">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30702">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30703">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30704">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30705">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30706">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30707">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30708">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30709">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30710">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30711">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30712">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30713">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30714">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30715">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30716">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30717">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30718">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30719">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30720">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30721">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30722">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30723">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30724">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30725">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30726">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30727">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30728">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30729">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30730">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30731">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30732">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30733">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30734">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30735">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30736">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30737">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30738">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30739">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30740">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30741">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30742">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30743">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30744">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30745">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30746">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30747">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30748">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30749">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30750">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30751">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30752">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30753">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30754">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30755">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30756">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30757">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30758">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30759">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30760">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30761">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30762">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30800">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30801">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30802">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30803">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30804">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30805">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30806">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30807">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30808">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30809">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30810">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30811">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30812">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30813">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30814">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30815">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30816">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30817">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30818">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30819">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30820">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30821">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30822">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30823">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30824">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30825">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30826">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30827">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30828">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30829">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30830">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30831">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30832">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30833">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30834">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30835">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30836">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30837">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30838">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30839">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30840">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30841">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30842">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30843">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30844">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30845">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30846">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30847">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30848">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30849">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30850">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30851">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30852">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30853">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30854">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30855">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30856">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30857">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30858">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30859">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30860">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30861">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30862">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30863">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30864">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30865">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30866">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30867">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30868">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30869">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30870">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30871">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30872">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30873">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30874">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30875">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30876">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30877">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30878">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30879">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30880">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30881">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30882">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30883">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30884">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30885">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30886">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30887">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30888">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30889">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30890">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30891">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30892">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30893">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30894">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30895">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30896">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30897">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30898">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30899">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30900">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30901">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30902">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30903">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30904">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30905">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30906">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30907">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30908">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30909">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30910">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30911">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30912">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30913">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30914">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30915">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30916">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30917">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30918">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30919">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30920">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30921">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+			<Items Frame="30922">
+				<Items xsi:type="BoolAttribute" Name="OneLegFixateOtherSide_Left" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SolutionFile>
+		<Header>
+			<Date>2017-07-10</Date>
+			<Time>09:32:57.4312819+02:00</Time>
+			<Version>1</Version>
+			<Type>Solution</Type>
+			<ID>f35d3281-f133-4b17-b3f9-5fb1c3f112ff</ID>
+		</Header>
+		<Solution_Data>
+			<Files>
+				<Name />
+				<Content>
+					<Items>
+						<File>NearStayOne_Left.vgbproj</File>
+					</Items>
+					<Items>
+						<File>NearStayOne_Left.a.vgbproj</File>
+					</Items>
+					<Items>
+						<File>NearStayOne_Right.vgbproj</File>
+					</Items>
+					<Items>
+						<File>NearStayOne_Right.a.vgbproj</File>
+					</Items>
+				</Content>
+			</Files>
+		</Solution_Data>
+		<UI_State />
+		<Attributes />
+	</SolutionFile>
+</GestureBuilderFile>

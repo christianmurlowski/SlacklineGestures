@@ -1,0 +1,1384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GestureBuilderFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ClipFile>
+		<Header>
+			<Date>2017-04-28</Date>
+			<Time>12:14:39.9489164+02:00</Time>
+			<Version>1</Version>
+			<Type>XefClip</Type>
+			<Clip>SlacklineStartOtherFeetTEST2.xef</Clip>
+			<StartFrame>1800</StartFrame>
+			<EndFrame>5528</EndFrame>
+			<ID>fd83523d-c37f-4bba-b35f-48280db37e4b</ID>
+		</Header>
+		<UI_State>
+			<CurrentFrameStart>4622</CurrentFrameStart>
+			<CurrentFrameEnd>4623</CurrentFrameEnd>
+			<AttributeInterpolations />
+			<AttributeKeys />
+		</UI_State>
+		<AutoTagged />
+		<Attributes>
+			<Items xsi:type="StringAttribute" Name="Name" Value="" />
+			<Items xsi:type="IntAttribute" Name="Age" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Weight" Value="0" />
+			<Items xsi:type="FloatAttribute" Name="Height" Value="0" />
+			<Items xsi:type="StringAttribute" Name="Handedness" Value="Right" />
+		</Attributes>
+		<ClipAttributes>
+			<Items Frame="4699">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4700">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4701">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4702">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4703">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4704">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4705">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4706">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4707">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4708">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4709">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4710">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4711">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4712">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4713">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4714">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4715">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4716">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4717">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4718">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4719">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4720">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4721">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4722">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4723">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4724">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4725">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4726">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4727">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4728">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4729">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4730">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4731">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4732">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4733">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4734">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4735">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4736">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4737">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4738">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4739">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4740">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4741">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4742">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4743">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4744">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4745">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4746">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4747">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4748">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4749">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4750">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4751">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4752">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4753">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4754">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4755">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4756">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4757">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4758">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4759">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4760">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4761">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4762">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4763">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4764">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4765">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4766">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4767">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4768">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4769">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4770">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4771">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4772">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4773">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4774">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4775">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4776">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4777">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4778">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4779">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4780">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4781">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4782">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4783">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4784">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4785">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4786">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4787">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4788">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4789">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4790">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4791">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4792">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4793">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4794">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4795">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4796">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4797">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4798">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4799">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4800">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4801">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4802">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4803">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4804">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4805">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4806">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4807">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4808">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4809">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4810">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4811">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4812">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4813">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4814">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4815">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4816">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4817">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4818">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4819">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4820">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4821">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4822">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4823">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4824">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4825">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4826">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4977">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4978">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4979">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4980">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4981">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4982">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4983">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4984">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4985">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4986">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4987">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4988">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4989">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4990">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4991">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4992">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4993">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4994">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4995">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4996">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4997">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4998">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="4999">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5000">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5001">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5002">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5003">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5004">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5005">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5006">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5007">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5008">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5009">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5010">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5011">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5012">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5013">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5014">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5015">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5016">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5017">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5018">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5019">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5020">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5021">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5022">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5023">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5024">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5025">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5026">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5027">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5028">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5029">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5030">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5031">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5032">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5033">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5034">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5035">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5036">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5037">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5038">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5039">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5040">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5041">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5042">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5043">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5044">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5045">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5046">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5047">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5048">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5049">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5050">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5051">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5052">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5053">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5054">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5055">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5056">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5057">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5058">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5059">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5060">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5061">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5062">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5063">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5064">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5065">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5066">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5067">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5068">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5069">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5070">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5071">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5072">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5073">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5074">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5075">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5076">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5077">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5078">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5079">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5080">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5081">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5082">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5083">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5084">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5085">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5086">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5087">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5088">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5089">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5090">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5091">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5092">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5093">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5094">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5095">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5096">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5097">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5098">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5099">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5100">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5101">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5102">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5103">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5104">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5105">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5106">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5107">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5108">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5109">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5110">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5111">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5112">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5113">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5114">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5115">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5116">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5117">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5118">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5119">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5120">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5121">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5122">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5123">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5124">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5125">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5126">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5127">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5128">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5129">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5130">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5131">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5132">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5133">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5134">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5135">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5136">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5137">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5138">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5139">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5140">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5141">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5142">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5143">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5144">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5145">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5146">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5147">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5148">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5149">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5150">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5151">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5152">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5153">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5154">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5155">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5156">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5157">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5158">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5159">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5160">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5161">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5162">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5163">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5164">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5165">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5166">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5235">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5236">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5237">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5238">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5239">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5240">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5241">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5242">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5243">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5244">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5245">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5246">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5247">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5248">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5249">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5250">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5251">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5252">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5253">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5254">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5255">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5256">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5257">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5258">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5259">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5260">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5261">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5262">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5263">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5264">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5265">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5266">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5267">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5268">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5269">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5270">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5271">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5272">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5273">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5274">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5275">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5276">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5277">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5278">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5279">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5280">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5281">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5282">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5283">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5284">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5285">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5286">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5287">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5288">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5289">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5290">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5291">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5292">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5293">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5294">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5295">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5296">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5297">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5298">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5299">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5300">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5301">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5302">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5303">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5304">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5305">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5306">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5307">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5308">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5309">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5310">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5311">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5312">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5313">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5314">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5315">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5316">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5317">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5318">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5319">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5320">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5321">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5322">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5323">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5324">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5325">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5326">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5327">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5328">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5329">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5330">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5331">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5332">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5333">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5334">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5335">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5336">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5337">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5338">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5339">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5340">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5341">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5342">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5343">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5344">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5345">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5346">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5347">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5348">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5349">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5350">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5351">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5352">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5353">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5354">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5355">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5356">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5357">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5358">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5359">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5360">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5361">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5362">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5363">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5364">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5365">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5366">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+			<Items Frame="5367">
+				<Items xsi:type="BoolAttribute" Name="SlacklineStartOtherFeet_Right" Value="true" />
+			</Items>
+		</ClipAttributes>
+	</ClipFile>
+</GestureBuilderFile>
